@@ -1,9 +1,9 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin.* 
+# VibeLink
+*Kotstudenten helpen met gemakkelijker te comunniceren met mede kotstudenten.* 
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Cezar Herbots; Warre De Vriendt*
 
-Datum
+Datum: 17/01/2025
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
@@ -13,6 +13,8 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
 - Hero sketch/render/image
+
+Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien
 
 ## Introductie
 Max 300 woorden.
