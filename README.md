@@ -1,5 +1,5 @@
 # VibeLink
-*Kotstudenten helpen met gemakkelijker te comunniceren met mede kotstudenten.* 
+*Kotstudenten gemakkelijker laten comunniceren met mede kotstudenten.* 
 
 *Projectteam: Cezar Herbots; Warre De Vriendt*
 
@@ -37,8 +37,11 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
+We hebben gekkozen om in 2 waves van prototypes te werken. De eerste wave focust op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn.
+
 ### Doestellingen
 Wat wilde je bereiken?
+Na deze fase willen we dus weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben.
 ### Materiaal & methoden
 Hoe onderzocht je dit? Wees volledig.
 ### Resultaten
