@@ -37,24 +37,34 @@ Definieer de belangrijkste designbeslissingen
 
 ## Definition
 Max. 1000 woorden
-We hebben gekkozen om in 2 waves van prototypes te werken. De eerste wave focust op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn.
+In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem gaan uitwerken. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
+We hebben gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben we gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
 ### Doestellingen
-Wat wilde je bereiken?
-Na deze fase willen we dus weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben.
+Na deze fase willen we weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben. Ook willen we een storyboard en render hebben voor het geheel te verduidelijken.
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+- Kartonenen prototypes
+- Ge-3Dprinted prototype
+- Verwisselbare papieren interfaces
+- User intervieuws
+- User testing
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+![IMG_20241107_163620118](https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665)
+
+#### Wave 1 (N=5)
+Uit de eerte wave bleek dat
+#### Wave 2 (N=5)
+uit de tweede wave is gekomen dat
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 
 ## Bill of materials
-- Welk
-- Materiaal
-- Heb
-- Je
-- Nu
+- LED-verlichting
+- Drukknop
+- Draaiknop
+- Arduino
+- Wifi-module?
 - Nodig
 - Voor
 - Je
