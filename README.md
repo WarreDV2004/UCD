@@ -53,12 +53,26 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ![IMG_20241107_163620118](https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665)
 
 #### Wave 1 (N=5)
+In de eerste wave zijn we het initieel idee gaan valideren bij potentiele gebruikers. We hebben basis prototypes gemaakt uit karton om de gebruikers een beter idee te geven over wat het gaat en hoe het er potentieel zou kunnen uitzien. We hebben 4 verschillende prototypes gemaakt die ook telkend een andere extra functie hadden, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
+Hier onder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. het idee van sfeerverlichting op kot vonden ze wel positief.
+Foto
+Het tweede prototype was een hanglamp. Mensen vonden deze ook te groot, maar vooral niet zo praktich aangezien het aan het plafond hangt en wat minder toegangkelijk is.
+Foto
+Het derde prototype was een muziekspeaker. Mense vonden het ontwerp van het prototype wel zeer goed en het idee van een speaker erbij te hebben leek hun ook wel tof.
+foto
+Het laatste prototype was veel kleiner dan de andere en had geen extra functie. De dient dus puur voor de moods te zien en zelf over te brengen. De testers hielden wel van de kleinere vormfactor, maar vonden de prototypes met een extra functie toch aantrekkelijker. 
+foto
+
+De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstundten beter kennen het snel vervangen zou kunnen worden door de smartphone. Het is dus balangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
+
+#### Wave 2 (N=5)
+
+### Conclusies & implicaties
+Definieer de belangrijkste designbeslissingen
+#### Wave 1 (N=5)
 Uit de eerte wave bleek dat
 #### Wave 2 (N=5)
 uit de tweede wave is gekomen dat
-### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
-
 ## Bill of materials
 - LED-verlichting
 - Drukknop
