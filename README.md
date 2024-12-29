@@ -55,35 +55,67 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 #### Wave 1 (N=5)
 In de eerste wave zijn we het initieel idee gaan valideren bij potentiele gebruikers. We hebben basis prototypes gemaakt uit karton om de gebruikers een beter idee te geven over wat het gaat en hoe het er potentieel zou kunnen uitzien. We hebben 4 verschillende prototypes gemaakt die ook telkend een andere extra functie hadden, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
 Hier onder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. het idee van sfeerverlichting op kot vonden ze wel positief.
-![IMG_6436](https://github.com/user-attachments/assets/60d2053d-a08e-44aa-a6fc-a3f30e7c9ea6) ![IMG_20241107_163620118](https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665)
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/60d2053d-a08e-44aa-a6fc-a3f30e7c9ea6 alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665 alt="Afbeelding 2" width="300">
+</div>
 
 Het tweede prototype was een hanglamp. Mensen vonden deze ook te groot, maar vooral niet zo praktich aangezien het aan het plafond hangt en wat minder toegangkelijk is.
-![IMG_6372](https://github.com/user-attachments/assets/25bcf018-d17a-497b-8917-dec0782b7485) ![IMG_20241114_111006775 (1)](https://github.com/user-attachments/assets/a1184b32-dc83-4a49-aef6-70b253ab3e8c)
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/25bcf018-d17a-497b-8917-dec0782b7485 alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/a1184b32-dc83-4a49-aef6-70b253ab3e8c alt="Afbeelding 2" width="300">
+</div>
 
 Het derde prototype was een muziekspeaker. Mense vonden het ontwerp van het prototype wel zeer goed en het idee van een speaker erbij te hebben leek hun ook wel tof.
-![IMG_6337](https://github.com/user-attachments/assets/d22a74f8-b0ba-4244-86e9-66050b23874b) ![IMG_20241114_121901499 (1)](https://github.com/user-attachments/assets/6845ee63-cf40-4564-971b-a37f6da30820)
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/d22a74f8-b0ba-4244-86e9-66050b23874b alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/6845ee63-cf40-4564-971b-a37f6da30820 alt="Afbeelding 2" width="300">
+</div>
 
 Het laatste prototype was veel kleiner dan de andere en had geen extra functie. De dient dus puur voor de moods te zien en zelf over te brengen. De testers hielden wel van de kleinere vormfactor, maar vonden de prototypes met een extra functie toch aantrekkelijker. 
-![IMG_6353](https://github.com/user-attachments/assets/08ae06e8-f56f-4288-9c0a-b45635087e31) ![klein prototype](https://github.com/user-attachments/assets/42f692ca-2e47-4311-8896-4b7c933813ac)
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/08ae06e8-f56f-4288-9c0a-b45635087e31 alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/42f692ca-2e47-4311-8896-4b7c933813ac alt="Afbeelding 2" width="300">
+</div>
 
 De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus balangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
 
 #### Wave 2 (N=5)
 In de tweede wave zijn we gaan kijken naar hoeveel knoppen, voor wat nodig zijn en daarbij ook de lay-out. Dit hebben we gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo konden we met 1 één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben we gekeken naar de resultaten van wave 1.
 Hier onder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prototype van de sfeerlamp, maar kleiner.
-![image (1)](https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab)
-We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton gemaakt, wat niet sterk genoeg was. Daarom hebben we hem dan de 3D printer ingeschakeld.
-![image (2)](https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74) Foto van 3D-printed protoype.
 
+<img src=https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab alt="Afbeelding 2" width="300">
 
+We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton gemaakt, wat niet sterk genoeg was. Daarom hebben we dan de 3D printer ingeschakeld.
+
+<img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 2" width="300"> Foto van 3D-printed protoype.
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen
 #### Wave 1 (N=5)
 Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. 
-(Kader met Design requerements)
-- Maak het compact, maximum 20x20x20 cm
-- 
+
+<div style="border-left: 4px solid purple; padding: 10px; background-color: #f8f9fa;">
+  <strong style="color: purple;">Important</strong>
+  <p>Design Requirements:</p>
+  <ul>
+    <li><strong>D1.1</strong> Maak het compact, maximum 20x20x20 cm.</li>
+    <li><strong>D1.2</strong> ....</li>
+    <li><strong>D1.3</strong> ....</li>
+  </ul>
+</div>
+
+> **Important**
+> 
+> Design Requirements:
+> - **D1.1** Maak het compact, maximum 20x20x20 cm.
+> - **D1.2** ....
+> - **D1.3** ....
+
 #### Wave 2 (N=5)
 uit de tweede wave is gekomen dat
 ## Bill of materials
