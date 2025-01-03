@@ -3,18 +3,16 @@
 
 *Projectteam: Cezar Herbots; Warre De Vriendt*
 
-Datum: 17/01/2025
+Datum: 16/01/2025
 
 ## Samenvatting
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
 
-Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/1c900154-e1fe-41f0-88d5-4873c3affb3a alt="Afbeelding 2" width="300">
+</div>
 
 ## Introductie
 Max 300 woorden.
@@ -22,7 +20,8 @@ Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief bou
 Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
 
 ## Methodologie
-Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). Maak hierbij gebruik van een afbeelding om je tijdlijn weer te geven. Op deze tijdlijn moeten minimaal een tijdsincatie te zien zijn, moeten fasen te zien zijn en moeten activiteiten te zien zijn.
+
+<img src= https://github.com/user-attachments/assets/fa253a99-e745-4409-9afa-e6dde2a8fdc4 alt="Afbeelding 2" width="1000">
 
 ## Discovery
 Max. 1000 woorden
@@ -36,7 +35,6 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 Definieer de belangrijkste designbeslissingen
 
 ## Definition
-Max. 1000 woorden
 In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem gaan uitwerken. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
 We hebben gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben we gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
@@ -92,7 +90,7 @@ We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van e
 
 <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 2" width="300"> Foto van 3D-printed protoype.
 
-Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes en hoe de kotgenoten worden weergeven is er nog geen rekening mee gehouden.
+Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= alt="Afbeelding 1" width="300">
@@ -106,7 +104,7 @@ In de tweede wave hebben we ook getest welke moods de gebruikers allemaal op pro
 
 <img src=https://github.com/user-attachments/assets/c748c216-2158-4aca-a8b8-2061a8862712 alt="Afbeelding 2" width="300">
 
-Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen.
+Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen:
 - Slaapstand/niet storen/uit
 - Sporten
 - Iets gaan drinken
