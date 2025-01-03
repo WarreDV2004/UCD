@@ -49,9 +49,7 @@ Na deze fase willen we weten hoe het product er gaat uitzien en welke functies h
 - User intervieuws
 - User testing
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
-
-
+incl. foto's, quotes, analyseframeworks, ...
 #### Wave 1 (N=5)
 In de eerste wave zijn we het initieel idee gaan valideren bij potentiele gebruikers. We hebben basis prototypes gemaakt uit karton om de gebruikers een beter idee te geven over wat het gaat en hoe het er potentieel zou kunnen uitzien. We hebben 4 verschillende prototypes gemaakt die ook telkend een andere extra functie hadden, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
 Hier onder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. het idee van sfeerverlichting op kot vonden ze wel positief.
@@ -94,20 +92,29 @@ We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van e
 
 <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 2" width="300"> Foto van 3D-printed protoype.
 
+Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes en hoe de kotgenoten worden weergeven is er nog geen rekening mee gehouden.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= alt="Afbeelding 1" width="300">
+  <img src= alt="Afbeelding 2" width="300">
+  <img src= alt="Afbeelding 2" width="300">
+</div>
+
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
 #### Wave 1 (N=5)
 Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. 
 
-<div style="border-left: 4px solid purple; padding: 10px; background-color: #f8f9fa;">
-  <strong style="color: purple;">Important</strong>
-  <p>Design Requirements:</p>
-  <ul>
-    <li><strong>D1.1</strong> Maak het compact, maximum 20x20x20 cm.</li>
-    <li><strong>D1.2</strong> ....</li>
-    <li><strong>D1.3</strong> ....</li>
-  </ul>
-</div>
+
+> **Important**
+> 
+> Design Requirements:
+> - **D1.1** Maak het compact, maximum 20x20x20 cm.
+> - **D2.1** Maak de kleur van het sfeerlicht onafhankelijk van de soort mood.
+> - **D1.3** ....
+
+#### Wave 2 (N=5)
+Uit de tweede wave is gekomen dat
 
 > **Important**
 > 
@@ -116,18 +123,20 @@ Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst al
 > - **D1.2** ....
 > - **D1.3** ....
 
-#### Wave 2 (N=5)
-uit de tweede wave is gekomen dat
 ## Bill of materials
 - LED-verlichting
 - Drukknop
 - Draaiknop
 - Arduino
 - Wifi-module?
-- Nodig
-- Voor
-- Je
-- Prototype
+
+## Overzicht Design Requirments
+| Nummer    | Design Requirment                                                                     | Source                  | Date       |
+|-----------|---------------------------------------------------------------------------------------|-------------------------|------------|
+| D1        | Algemeen                                                                              |                         |            |
+| D1.1      | Maak het compact, maximum 20x20x20 cm.                                                | Concept Validation      | 30/11/2024 |
+| D2        | Sfeerlicht                                                                            |                         |            |
+| D2.1      | Maak de kleur van het sfeerlicht onafhankelijk van de soort mood.                     | Concept Validation      | 30/11/2024 |
 
 ## Kritische reflectie
 Max. 500 woorden
@@ -136,3 +145,15 @@ Max. 500 woorden
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
+
+- Discovery
+    -
+
+- Definition
+  - Concept test
+      - [Protocol](https://drive.google.com/drive/folders/19ehnU2p5PQs3FtDPUmE1erBSk5AWWCi_?usp=drive_link)
+      - [Report](https://docs.google.com/document/d/1ucsTmMfX84bAc7nFclVBQN54uENG8dV8cWng5rm5kpM/edit?usp=sharing)
+  - User test
+      - [Protocol](https://drive.google.com/drive/folders/1jLKyF3B_3CPjVd0OyL8UQ6i4wD-8rBTl?usp=drive_link)
+      - [Report](https://docs.google.com/document/d/15mQg2JderRjXdMa06qMra967utHhEO96udw502FnnFs/edit?usp=sharing)
+    
