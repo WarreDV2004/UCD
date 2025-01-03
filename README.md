@@ -10,8 +10,8 @@ Datum: 16/01/2025
 Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/1c900154-e1fe-41f0-88d5-4873c3affb3a alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="400">
+  <img src=https://github.com/user-attachments/assets/1c900154-e1fe-41f0-88d5-4873c3affb3a alt="Afbeelding 2" width="400">
 </div>
 
 ## Introductie
@@ -88,14 +88,27 @@ Hier onder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prot
 
 We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton gemaakt, wat niet sterk genoeg was. Daarom hebben we dan de 3D printer ingeschakeld.
 
-<img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 2" width="300"> Foto van 3D-printed protoype.
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 1" width="300">
+  <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="300">
+</div>
 
+https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74
 Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= alt="Afbeelding 1" width="300">
-  <img src= alt="Afbeelding 2" width="300">
-  <img src= alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/b9ff7ca3-14e8-4de2-b679-dec55f120df5 alt="Licht onder" width="300">
+  <img src=https://github.com/user-attachments/assets/713796d3-51bb-45ce-b6de-5e2012ee7951 alt="knop zijkant" width="300">
+  <img src=https://github.com/user-attachments/assets/0a6cf450-5bf3-4e83-b92b-fee915dff2f3 alt="Afbeelding 2" width="300">
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/b6779038-bc2d-42db-8420-0fbb43ab4593 alt="..." width="300">
+  <img src=https://github.com/user-attachments/assets/56c0425f-ed29-4c7c-ab27-6f9868e3ff26 alt="..." width="300">
+  <img src=https://github.com/user-attachments/assets/10bd2eff-0f8f-4736-99df-97cba5350e97 alt="Afbeelding 2" width="300">
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/44907721-701b-4d19-9837-4b4081a76a1a alt="Licht onder" width="450">
+  <img src=https://github.com/user-attachments/assets/02b29fcb-008c-4795-b51f-caab38f76cf3 alt="Afbeelding 2" width="450">
 </div>
 
 Met al deze verschillende lay-outs konden de testpersonen zelf spelen met mogelijke combinaties die zei het beste vonden. De voorkeur voor de basis vorm ging meestal naar het kleine prototype. Dit met één knop vanboven die beide functies kan bedienen, het dimmen van het sfeerlicht en je mood aanduiden. 
