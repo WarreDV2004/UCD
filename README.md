@@ -52,9 +52,11 @@ Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het pr
 ### Conclusies & implicaties
 Uit de resultaten van de twee onderzoeken kunnen we een paar design requirements opstellen die we moeten meenemen bij het ontwerpen van het product.
 
-#### Design requirement:
-* Het communiceren van emoties en moods aan de hand van kleuren.
-* Meer moods dan emoties laten communiceren.
+> **Important**
+> 
+> Design Requirements:
+> - **D4.1** Communiceer de emoties aan de hand van kleur.
+> - **D4.2** Communiceer eerder moods dan emoties.
 
 ## Definition
 In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem gaan uitwerken. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
@@ -62,14 +64,15 @@ We hebben gekozen om in 2 waves van prototypes te werken. De eerste wave focust 
 
 ### Doestellingen
 Na deze fase willen we weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben. Ook willen we een storyboard en render hebben voor het geheel te verduidelijken.
+
 ### Materiaal & methoden
 - Kartonen prototypes
 - Ge-3Dprinted prototype
 - Verwisselbare papieren interfaces
 - User intervieuws
 - User testing
+  
 ### Resultaten
-incl. foto's, quotes, analyseframeworks, ...
 #### Wave 1 (N=5)
 In de eerste wave zijn we het initieel idee gaan valideren bij potentiele gebruikers. We hebben basis prototypes gemaakt uit karton om de gebruikers een beter idee te geven over wat het gaat en hoe het er potentieel zou kunnen uitzien. We hebben 4 verschillende prototypes gemaakt die ook telkens een andere extra functie hadden, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
 Hier onder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. Het idee van sfeerverlichting op kot vonden ze wel positief.
@@ -115,7 +118,6 @@ We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van e
   <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="300">
 </div>
 
-https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74
 Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
@@ -163,21 +165,20 @@ Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst al
 #### Wave 2 (N=5)
 Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welke functies er door hoeveel knoppen moeten worden bediend en waar deze terecht komen. Dit op de kleinere vorm. Hieronder is een foto te zien van het gekozen prototype met de meest gekozen lay-out.
 
-<img src= alt="Afbeelding 2" width="300">
+<img src= https://github.com/user-attachments/assets/478f9ba2-eed3-49fe-95f2-ff8078069cd1 alt="Afbeelding 2" width="300">
 
 > **Important**
 > 
 > Design Requirements:
 > - **D3.1** Zorg voor 1 knop de de verschillende functies bediend.
-> - **D4.1** Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
-> - **D1.3** ....
+> - **D4.2** Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
 
 ## Bill of materials
 - LED-verlichting
 - Drukknop
 - Draaiknop
 - Arduino
-- Wifi-module?
+- Wifi-module
 
 ## Overzicht Design Requirments
 | Nummer    | Design Requirment                                                                     | Source                  | Date       |
@@ -190,8 +191,10 @@ Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welk
 | D3        | Knoppen                                                                               |                         |            |
 | D1.3      | Zorg voor 1 knop de de verschillende functies bediend.                                | User test Wave 2        | 24/12/2024 |
 | D4        | Moods                                                                                 |                         |            |
-| D4.1      | Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten,    | User test Wave 2        | 24/12/2024 |
-|           | Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?                           |                         |            |
+| D4.1      | Communiceer de emoties aan de hand van kleur.                                         | Discovery               | 29/10/2024 |
+| D4.2      | Communiceer eerder moods dan emoties.                                                 | Discovery               | 29/10/2024 |
+| D4.3      | Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten,    | User test Wave 2        | 24/12/2024 |
+|           | Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd                            |                         |            |
 
 
 
@@ -203,8 +206,16 @@ Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 ## Bijlagen
 
+- [Miro board](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)
+
 - Discovery
-    -
+    - Enquête
+        - [Enquête zelf](https://docs.google.com/forms/d/e/1FAIpQLSdTiTeYtFrR0ctaUDDQAj40V7SO8Fajl4KnH02I8rrvnsv31A/viewform?usp=pp_url)
+        - [Protocol](https://docs.google.com/document/d/1A0FiS83AQZqOER-OXQ9g47Mbo12cE6BT3u4HJDeAB8g/edit?usp=sharing)
+        - [Report](https://docs.google.com/document/d/1ouhfAIFP2HL8f6tUjhvbmpmvou1BWplHWs9gQeRJVTI/edit?usp=sharing)
+    - Benchmark
+        - [Protocol](https://docs.google.com/document/d/1Jy2eyoBW6n9cmcCh9hvYr_Qc-EFNRZidyvqS3wYgaU8/edit?usp=sharing)
+        - [Report](https://docs.google.com/document/d/126ASfkEksQ4rDUWjOpNJmFLw9-Yusrcvi-pMoj0IQxg/edit?usp=sharing)
 
 - Definition
   - Concept test
