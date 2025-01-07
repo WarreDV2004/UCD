@@ -199,7 +199,7 @@ Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welk
 
 
 ## Kritische reflectie
-Max. 500 woorden
+Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëeler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
 
 ## Bronnen
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
