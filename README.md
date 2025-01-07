@@ -15,9 +15,7 @@ Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere 
 </div>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)).
+Kot gebouwen zijn vaak ingericht zodat iedereen zijn eigen kamer heeft en zijn eigen privecy. Dit kan er dan ook voor zorgen dat je de andere studenten minder ziet en geen contact met hun hebt. Wij proberen met VibeLink ervoor te zorgen dat studenten sneller met elkaar gaan communiceren en deze eerste grote drempel van communicatie te verkleinen. De hoofdfunctie van het product dient voor het communiceren van moods en emoties naar andere studenten. De student heeft hierbij volledige controle wat en wanneer deze wil communiceren met anderen. Naast de functie van communiceren heeft het product ook de functie als sfeerlamp. Dit zorgt ervoor dat het product vaker gebruikt wordt en hiermee de communicatie te stimuleren. Het product is te bedienen aan de hand van 1 draai/druk-knop. Door op de knop te drukken verander je van het instellen van de moods naar het instellen van het sfeerlicht. Door het roteren van de draaiknop stel je deze instelling dan in. De moods worden weergegeven aan de hand van kleuren voor een duidelijke weergave van ver of dichtbij. De lamp geeft aan de hand van een underglow aan in welke mood je jezelf bevind.
 
 ## Methodologie
 
