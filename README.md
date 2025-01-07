@@ -28,12 +28,16 @@ In de definitie fase werd er eerst gekeken naar welke functie ons product nog me
 
 <img src= https://github.com/user-attachments/assets/fa253a99-e745-4409-9afa-e6dde2a8fdc4 alt="Afbeelding 2" width="1000">
 
-## Discovery
-Max. 1000 woorden
+## Discovery (N=19)
+Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquetes en benchmarks.
+
 ### Doestellingen
-Wat wilde je bereiken?
+Een helder geformuleerde "how might we" bekomen.
+
 ### Materiaal & methoden
-Hoe onderzocht je dit? Wees volledig.
+* Enquetes via google forms
+* Benchmarks
+
 ### Resultaten
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties
