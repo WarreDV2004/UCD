@@ -15,7 +15,7 @@ Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere 
 </div>
 
 ## Introductie
-Kot gebouwen zijn vaak ingericht zodat iedereen zijn eigen kamer heeft en zijn eigen privecy. Dit kan er dan ook voor zorgen dat je de andere studenten minder ziet en geen contact met hun hebt. Wij proberen met VibeLink ervoor te zorgen dat studenten sneller met elkaar gaan communiceren en deze eerste grote drempel van communicatie te verkleinen. De hoofdfunctie van het product dient voor het communiceren van moods en emoties naar andere studenten. De student heeft hierbij volledige controle wat en wanneer deze wil communiceren met anderen. Naast de functie van communiceren heeft het product ook de functie als sfeerlamp. Dit zorgt ervoor dat het product vaker gebruikt wordt en hiermee de communicatie te stimuleren. Het product is te bedienen aan de hand van 1 draai/druk-knop. Door op de knop te drukken verander je van het instellen van de moods naar het instellen van het sfeerlicht. Door het roteren van de draaiknop stel je deze instelling dan in. De moods worden weergegeven aan de hand van kleuren voor een duidelijke weergave van ver of dichtbij. De lamp geeft aan de hand van een underglow aan in welke mood je jezelf bevind.
+Kot gebouwen zijn vaak ingericht zodat iedereen zijn eigen kamer heeft en zijn eigen privacy. Dit kan er dan ook voor zorgen dat je de andere studenten minder ziet en geen contact met hun hebt. Wij proberen met VibeLink ervoor te zorgen dat studenten sneller met elkaar gaan communiceren en deze eerste grote drempel van communicatie te verkleinen. De hoofdfunctie van het product dient voor het communiceren van moods en emoties naar andere studenten. De student heeft hierbij volledige controle wat en wanneer deze wil communiceren met anderen. Naast de functie van communiceren heeft het product ook de functie als sfeerlamp. Dit zorgt ervoor dat het product vaker gebruikt wordt en hiermee de communicatie te stimuleren. Het product is te bedienen aan de hand van 1 draai/druk-knop. Door op de knop te drukken verander je van het instellen van de moods naar het instellen van het sfeerlicht. Door het roteren van de draaiknop stel je deze instelling dan in. De moods worden weergegeven aan de hand van kleuren voor een duidelijke weergave van ver of dichtbij. De lamp geeft aan de hand van een underglow aan in welke mood je jezelf bevind.
 
 ## Methodologie
 Zoals elke onderzoeksproces starten we een exploratie van de opdracht. Hier stelde we onszelf een paar vragen, wat is het probleem? Is het probleem ook daadwerkelijk een probleem? Kunnen we dit probleem onderbouwen met bestaande en nieuwe onderzoeken? Na Rip the brief van de originele opdracht gaven we onszelf de volgende opdracht: Hoe kunnen we slimme producten inzetten om emoties van verschillende studenten op een kot naar elkaar te communiceren.
@@ -26,7 +26,7 @@ In de definitie fase werd er eerst gekeken naar welke functie ons product nog me
 
 
 
-<img src= https://github.com/user-attachments/assets/fa253a99-e745-4409-9afa-e6dde2a8fdc4 alt="Afbeelding 2" width="1000">
+<img src= https://github.com/user-attachments/assets/2cf359f5-6d6b-4e94-8cbe-f19ed612f1f2 alt="Afbeelding 2" width="1000">
 
 ## Discovery (N=19)
 Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquêtes en benchmarks.
@@ -202,7 +202,7 @@ Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welk
 Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
+
 
 ## Bijlagen
 
