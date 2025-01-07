@@ -29,19 +29,32 @@ In de definitie fase werd er eerst gekeken naar welke functie ons product nog me
 <img src= https://github.com/user-attachments/assets/fa253a99-e745-4409-9afa-e6dde2a8fdc4 alt="Afbeelding 2" width="1000">
 
 ## Discovery (N=19)
-Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquetes en benchmarks.
+Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquêtes en benchmarks.
 
 ### Doestellingen
 Een helder geformuleerde "how might we" bekomen.
 
 ### Materiaal & methoden
-* Enquetes via google forms
+* Enquêtes via google forms
 * Benchmarks
 
 ### Resultaten
-Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
+#### Benchmarks (N=6)
+Voor de benchmarks is er online gezocht naar 2 verschillende producten. Aan de ene kant wordt er gezocht naar bestaande producten die een oplossing bieden voor ons probleem en langs de andere kant wordt er gezocht naar bestaande manieren die helpen bij het communiceren van emoties bij anderen.
+
+Op het vlak van bestaande oplossingen van ons probleem komen we uit op bestaande producten. Er zijn wel oplossingen tegen eenzaamheid maar deze zijn dan niet gefocust op studenten. De 2 grote lijnen van oplossingen zijn een domotica systeem en apps zoals dating apps en vriendenapps. voor onze oplossing zijn we niet op zoek naar een systeem zoals een domotica systeem of een AI vriend die een persoon vervangt. We willen graag mensen dichter bij elkaar brengen en niet dichter bij hun scherm. Op het vlak van apps zijn er wel een heel aantal aan oplossingen. We zijn helaas ook niet van plan om een app te maken maar we kunnen wel een paar dingen concluderen uit de werking van deze apps. Veel van deze apps zoals dating apps werken aan de hand van swipen en je wordt aan elkaar verbonden als je beiden elkaar leuk vind. Wat het doet is de eerste sociale brug van communicatie overbruggen door mensen met elkaar te verbinden als ze iets gemeenschappelijk hebben. Dit geeft de mensen in kwestie meer zelfvertrouwen om contact te leggen omdat ze de angst van afwijzing minder meemaken.
+
+Op het vlak van communiceren van emoties zijn er een paar gezelschapsspelletjes die ontworpen zijn voor het communiceren van emoties. Deze spelletjes zijn wel ontworpen voor kinderen maar geven de basis van het weergeven van emoties. De manier van weergave dat deze spelletjes gebruik is aan de hand van kleur. Ook hebben we een studie teruggevonden die ons zegt dat kleuren bepaalde emoties kunnen losmaken. Uit deze informatie kunnen we halen dat emoties weergeven aan de hand van kleur een goede manier is.
+
+#### Enquête (N=13)
+Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het probleem om hier dan ook een zo goed mogelijke oplossing te vinden. Uit de Enquête blijkt dat studenten minder geïnteresseerd zijn in het communiceren van echte emoties maar dat ze eerder moods zouden willen communiceren. Uit de enquête blijkt dat er maar een kleine hoeveelheid van de mensen zich daadwerkelijk eenzaam of verdrietig voelt op kot maar dat een grote hoeveelheid van de mensen (ongeveer 75%) hun kotgenoten meer wilt zien en meer met hun in contact willen staan. Het doel van het product moet dus meer gefocust zijn op het communiceren van moods zoals samen iets gaan drinken en minder op emoties zoals verdrietig voelen.
+
 ### Conclusies & implicaties
-Definieer de belangrijkste designbeslissingen
+Uit de resultaten van de twee onderzoeken kunnen we een paar design requirements opstellen die we moeten meenemen bij het ontwerpen van het product.
+
+#### Design requirement:
+* Het communiceren van emoties en moods aan de hand van kleuren.
+* Meer moods dan emoties laten communiceren.
 
 ## Definition
 In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem gaan uitwerken. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
