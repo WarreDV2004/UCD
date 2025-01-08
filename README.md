@@ -219,9 +219,9 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
 
 - Definition
   - Concept test
-      - [Protocol](https://drive.google.com/drive/folders/19ehnU2p5PQs3FtDPUmE1erBSk5AWWCi_?usp=drive_link)
+      - [Protocol](https://docs.google.com/document/d/1pN3SjwHLKOpVsttGDe6S51hZ9E7TkTI1/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true)
       - [Report](https://docs.google.com/document/d/1ucsTmMfX84bAc7nFclVBQN54uENG8dV8cWng5rm5kpM/edit?usp=sharing)
   - User test
-      - [Protocol](https://drive.google.com/drive/folders/1jLKyF3B_3CPjVd0OyL8UQ6i4wD-8rBTl?usp=drive_link)
+      - [Protocol](https://docs.google.com/document/d/1fZb_FDhLXpEABN7fJ9v1H8SrhXbhuXQO/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true)
       - [Report](https://docs.google.com/document/d/15mQg2JderRjXdMa06qMra967utHhEO96udw502FnnFs/edit?usp=sharing)
     
