@@ -63,7 +63,7 @@ In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem g
 We hebben gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben we gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
 ### Doestellingen
-Na deze fase willen we weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben. Ook willen we een storyboard en render hebben voor het geheel te verduidelijken.
+Na deze fase willen we weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben. Ook willen we een [storyboard](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689) en render hebben voor het geheel te verduidelijken.
 
 ### Materiaal & methoden
 - Kartonen prototypes
