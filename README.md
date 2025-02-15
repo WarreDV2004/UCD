@@ -28,7 +28,7 @@ In de definitie fase werd er eerst gekeken naar welke functie ons product nog me
 
 <img src= https://github.com/user-attachments/assets/2cf359f5-6d6b-4e94-8cbe-f19ed612f1f2 alt="Afbeelding 2" width="1000">
 
-## Discovery (N=19)
+## Discovery
 Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquêtes en benchmarks.
 
 ### Doestellingen
@@ -55,27 +55,23 @@ Uit de resultaten van de twee onderzoeken kunnen we een paar design requirements
 > **Important**
 > 
 > Design Requirements:
-> - **D4.1** Communiceer de emoties aan de hand van kleur.
-> - **D4.2** Communiceer eerder moods dan emoties.
+> - **D4.1** Het product communiceert de emoties aan de hand van kleur.
+> - **D4.2** Het product communiceert vooral moods. 
 
 ## Definition
-In deze fase wordt er verder gedefinieerd hoe we de oplossing van het probleem gaan uitwerken. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
-We hebben gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave gaan we na welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben we gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
+In deze fase wordt er verder gedefinieerd hoe de oplossing van het probleem word uitgewerkt. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
+Er is gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave wordt er na gegaan welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben is er gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
 ### Doestellingen
-Na deze fase willen we weten hoe het product er gaat uitzien en welke functies het allemaal moet hebben. Ook willen we een [storyboard](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689) en render hebben voor het geheel te verduidelijken.
+Na deze fase wordt in kaart gebracht hoe het product eruit zal zien en welke functies het zal hebben. Daarnaast worden een [storyboard](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)  en een render opgesteld om het geheel te verduidelijken.
 
 ### Materiaal & methoden
-- Kartonen prototypes
-- Ge-3Dprinted prototype
-- Verwisselbare papieren interfaces
-- User intervieuws
-- User testing
+Om de doelstellingen te bereiken, werden verschillende prototypes en testmethoden ingezet. Kartonnen prototypes dienden voor snelle conceptverkenning, terwijl 3D-geprinte modellen fysieke eigenschappen evalueerden. Verwisselbare papieren interfaces maakten flexibele interface-tests mogelijk. User interviews brachten inzichten in behoeften en verwachtingen, waarna user testing de gebruiksvriendelijkheid en functionaliteit beoordeelde. Deze aanpak bood een diepgaand inzicht in de gebruikservaring en de haalbaarheid van het ontwerp.
   
 ### Resultaten
 #### Wave 1 (N=5)
-In de eerste wave zijn we het initieel idee gaan valideren bij potentiele gebruikers. We hebben basis prototypes gemaakt uit karton om de gebruikers een beter idee te geven over wat het gaat en hoe het er potentieel zou kunnen uitzien. We hebben 4 verschillende prototypes gemaakt die ook telkens een andere extra functie hadden, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
-Hier onder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. Het idee van sfeerverlichting op kot vonden ze wel positief.
+In de eerste wave wordt het initieel idee gevalideerd bij potentiele gebruikers. Basis prototypes uit karton gaven de gebruikers een beter idee over wat het gaat en hoe het er potentieel zou kunnen uitzien. Er werden 4 verschillende prototypes gemaakt die ook telkens een andere extra functie kregen, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
+Hieronder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. Het idee van sfeerverlichting op kot vonden ze wel positief.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/60d2053d-a08e-44aa-a6fc-a3f30e7c9ea6 alt="Afbeelding 1" width="300">
@@ -106,19 +102,19 @@ Het laatste prototype was veel kleiner dan de andere en had geen extra functie. 
 De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus belangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
 
 #### Wave 2 (N=5)
-In de tweede wave zijn we gaan kijken naar hoeveel knoppen, voor wat nodig zijn en daarbij ook de lay-out. Dit hebben we gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo konden we met 1 één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben we gekeken naar de resultaten van wave 1.
-Hier onder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prototype van de sfeerlamp, maar kleiner.
+In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie ervan en daarbij ook de lay-out. Dit werd gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo is het mogelijk om met één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben werd gekeken naar de resultaten van wave 1.
+Hieronder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prototype van de sfeerlamp, maar kleiner.
 
 <img src=https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab alt="Afbeelding 2" width="300">
 
-We hebben ook nog een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton gemaakt, wat niet sterk genoeg was. Daarom hebben we dan de 3D printer ingeschakeld.
+Er is ook een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton, wat niet sterk genoeg was. Daarna werd deze ge-3D print.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 1" width="300">
   <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="300">
 </div>
 
-Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
+Hieronder zijn de verschillende layouts te zien voor beide basisvormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/b9ff7ca3-14e8-4de2-b679-dec55f120df5 alt="Licht onder" width="300">
@@ -137,7 +133,7 @@ Hieronder de dan de verschillende layouts te zien voor beide basis vormen. Er is
 
 Met al deze verschillende lay-outs konden de testpersonen zelf spelen met mogelijke combinaties die zei het beste vonden. De voorkeur voor de basis vorm ging meestal naar het kleine prototype. Dit met één knop vanboven die beide functies kan bedienen, het dimmen van het sfeerlicht en je mood aanduiden. 
 
-In de tweede wave hebben we ook getest welke moods de gebruikers allemaal op product willen hebben. Dit hebben we gedaan door een blad te geven met veel verschillende emoties op, want het is moeilijk om op gevarieerde emoties te komen uit het hoofd. De gebruikers mochten dan 5 emoties aanduiden op het blad en ook nog 2 extra functies/emoties zelf opschrijven zoals sporten of koken.
+In de tweede wave is er ook getest welke moods de gebruikers allemaal op product willen hebben. Dit werd gedaan door een blad te geven met veel verschillende emoties op, want het is moeilijk om op gevarieerde emoties te komen uit het hoofd. Recognition over recall. De gebruikers mochten dan 5 emoties aanduiden op het blad en ook nog 2 extra functies/emoties zelf opschrijven zoals sporten of koken.
 
 <img src=https://github.com/user-attachments/assets/c748c216-2158-4aca-a8b8-2061a8862712 alt="Afbeelding 2" width="300">
 
@@ -153,25 +149,25 @@ Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen:
 ### Conclusies & implicaties
 #### Wave 1 (N=5)
 Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. De kleur van het sfeerlicht moet ook niet hetzelfde zijn als de kleur van de mood waar ze zelf in zitten. Ook werd er aangegeven dat het wel gemakkelijk zou zijn als er een indicatie is als er iemand in dezelfde mood zit.
->"Het zou wel handig zijn als er wordt aangegeven als iemand in dezelfde mood zit, want je zit waarschijnlijk niet de hele tijd ernaar te kijken."
+>"Het zou wel handig zijn als er wordt aangegeven als iemand in dezelfde mood zit, want je zit waarschijnlijk niet de hele tijd ernaar te kijken." Linde, 19, Student
 
 > **Important**
 > 
 > Design Requirements:
-> - **D1.1** Maak het compact, maximum 20x20x20 cm.
-> - **D1.2** Laat het product een indicatie geven als er een match is.
-> - **D2.1** Maak de kleur van het sfeerlicht onafhankelijk van de soort mood.
+> - **D1.1** Het product is compact, maximum 20x20x20 cm.
+> - **D1.2** Het product geeft indicatie als er een match is. 
+> - **D2.1** De kleur van het sfeerlicht is onafhankelijk van de soort mood.  
 
 #### Wave 2 (N=5)
-Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welke functies er door hoeveel knoppen moeten worden bediend en waar deze terecht komen. Dit op de kleinere vorm. Hieronder is een foto te zien van het gekozen prototype met de meest gekozen lay-out.
+Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook welke functies er door hoeveel knoppen moeten worden bediend en waar deze terecht komen. Dit op de kleinere vorm. Hieronder is een foto te zien van het gekozen prototype met de meest gekozen lay-out.
 
 <img src= https://github.com/user-attachments/assets/478f9ba2-eed3-49fe-95f2-ff8078069cd1 alt="Afbeelding 2" width="300">
 
 > **Important**
 > 
 > Design Requirements:
-> - **D3.1** Zorg voor 1 knop de de verschillende functies bediend.
-> - **D4.2** Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
+> - **D3.1** Het product heeft 1 knop die de verschillende functies bediend.
+> - **D4.2** Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
 
 ## Bill of materials
 - LED-verlichting
@@ -184,16 +180,16 @@ Uit de tweede wave weten we welke moods er op het product moeten komen. Ook welk
 | Nummer    | Design Requirment                                                                     | Source                  | Date       |
 |-----------|---------------------------------------------------------------------------------------|-------------------------|------------|
 | D1        | Algemeen                                                                              |                         |            |
-| D1.1      | Maak het compact, maximum 20x20x20 cm.                                                | Concept Validation      | 30/11/2024 |
-| D1.2      | Laat het product een indicatie geven als er een match is.                             | Concept validation      | 30/11/2024 |
+| D1.1      | Het product is compact, maximum 20x20x20 cm.                                          | Concept Validation      | 30/11/2024 |
+| D1.2      | Het product geeft indicatie als er een match is.                                      | Concept validation      | 30/11/2024 |
 | D2        | Sfeerlicht                                                                            |                         |            |
-| D2.1      | Maak de kleur van het sfeerlicht onafhankelijk van de soort mood.                     | Concept Validation      | 30/11/2024 |
+| D2.1      | De kleur van het sfeerlicht is onafhankelijk van de soort mood.                       | Concept Validation      | 30/11/2024 |
 | D3        | Knoppen                                                                               |                         |            |
-| D1.3      | Zorg voor 1 knop de de verschillende functies bediend.                                | User test Wave 2        | 24/12/2024 |
+| D1.3      | Het product heeft 1 knop die de verschillende functies bediend.                       | User test Wave 2        | 24/12/2024 |
 | D4        | Moods                                                                                 |                         |            |
-| D4.1      | Communiceer de emoties aan de hand van kleur.                                         | Discovery               | 29/10/2024 |
-| D4.2      | Communiceer eerder moods dan emoties.                                                 | Discovery               | 29/10/2024 |
-| D4.3      | Zorg dat volgende moods op het product staan: Slaapstand/niet storen/uit, Sporten,    | User test Wave 2        | 24/12/2024 |
+| D4.1      | Het product communiceert de emoties aan de hand van kleur.                            | Discovery               | 29/10/2024 |
+| D4.2      | Het product communiceert vooral moods.                                                | Discovery               | 29/10/2024 |
+| D4.3      | Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten,             | User test Wave 2        | 24/12/2024 |
 |           | Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd                            |                         |            |
 
 
