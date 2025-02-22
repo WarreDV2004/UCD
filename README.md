@@ -176,6 +176,12 @@ Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook w
 - Arduino
 - Wifi-module
 
+## Develop 1
+
+Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
+
+Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een prototype ontwikkeld waarin een papieren strook wordt gebruikt om verschillende interfaceopties te simuleren. Daarnaast wordt een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
+
 ## Overzicht Design Requirments
 | Nummer    | Design Requirment                                                                     | Source                  | Date       |
 |-----------|---------------------------------------------------------------------------------------|-------------------------|------------|
