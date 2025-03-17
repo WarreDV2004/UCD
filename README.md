@@ -178,9 +178,29 @@ Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook w
 
 ## Develop 1
 
+### Doelstellingen
 Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
+Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysike en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing ver aangenaamste is voor de studenten.
 
-Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een prototype ontwikkeld waarin een papieren strook wordt gebruikt om verschillende interfaceopties te simuleren. Daarnaast wordt een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
+### Materialen & Methoden
+Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een ge-3D printed prototype gebruikt met de algemene vorm en de draai ring. Hiernaast is er een arduino met een patentiometer verbonden met de laptop, deze is in verbinding met protopie conect. Daarnaast wordt er ook een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de potentiometer en smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de interface en de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/04c67af0-b02e-42a4-a703-ae1eee6bb71c alt="..." width="450">
+  <img src=https://github.com/user-attachments/assets/dfff212e-8190-4d64-b1c1-7a22e622e669 alt="..." width="300">
+</div>
+
+Om de fysike ergonomie te onderzoeken wordt er eerst een antropometrische studie gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de teste. Voor de sensoriele ergonomie te testen geven we voorbeelden van visuele en auditieve feedback en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende tesxturen op die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/675654fd-73a0-4631-828b-53dee8f02fcf alt="..." width="300">
+</div>
+
+### Resultaten
+
+
+### Conclusies & Implicaties
+
 
 ## Overzicht Design Requirments
 | Nummer    | Design Requirment                                                                     | Source                  | Date       |
@@ -226,4 +246,11 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
   - User test
       - [Protocol](https://docs.google.com/document/d/1fZb_FDhLXpEABN7fJ9v1H8SrhXbhuXQO/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true)
       - [Report](https://docs.google.com/document/d/15mQg2JderRjXdMa06qMra967utHhEO96udw502FnnFs/edit?usp=sharing)
+
+- Develop
+  - 1
+    - [Protocol](https://docs.google.com/document/d/1r0aq8WSiM16s504EQ3FyjoloXnLYU9Ix3MpxWJum0ZM/edit?usp=sharing)
+    - [Antropometrische studie](https://docs.google.com/document/d/151swEXQBkQlyvM8BVWTO21OE8UqdC8CK/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true)
+    - [Report](https://docs.google.com/document/d/1oeadrv8DQ0RTf0Ejnrk790tRzP5yXAQnDEZ7GdAOnDw/edit?usp=sharing)
+     
     
