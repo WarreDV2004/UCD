@@ -9,10 +9,6 @@ Datum: 16/01/2025
 
 Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="400">
-  <img src=https://github.com/user-attachments/assets/1c900154-e1fe-41f0-88d5-4873c3affb3a alt="Afbeelding 2" width="400">
-</div>
 
 ## Introductie
 Kot gebouwen zijn vaak ingericht zodat iedereen zijn eigen kamer heeft en zijn eigen privacy. Dit kan er dan ook voor zorgen dat je de andere studenten minder ziet en geen contact met hun hebt. Wij proberen met VibeLink ervoor te zorgen dat studenten sneller met elkaar gaan communiceren en deze eerste grote drempel van communicatie te verkleinen. De hoofdfunctie van het product dient voor het communiceren van moods en emoties naar andere studenten. De student heeft hierbij volledige controle wat en wanneer deze wil communiceren met anderen. Naast de functie van communiceren heeft het product ook de functie als sfeerlamp. Dit zorgt ervoor dat het product vaker gebruikt wordt en hiermee de communicatie te stimuleren. Het product is te bedienen aan de hand van 1 draai/druk-knop. Door op de knop te drukken verander je van het instellen van de moods naar het instellen van het sfeerlicht. Door het roteren van de draaiknop stel je deze instelling dan in. De moods worden weergegeven aan de hand van kleuren voor een duidelijke weergave van ver of dichtbij. De lamp geeft aan de hand van een underglow aan in welke mood je jezelf bevind.
@@ -169,21 +165,45 @@ Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook w
 > - **D3.1** Het product heeft 1 knop die de verschillende functies bediend.
 > - **D4.2** Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
 
-## Bill of materials
-- LED-verlichting
-- Drukknop
-- Draaiknop
-- Arduino
-- Wifi-module
+
+Hieronder is dan de render te zien van hoe het eruit zou kunnen komen te zien.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="400">
+  <img src=https://github.com/user-attachments/assets/1c900154-e1fe-41f0-88d5-4873c3affb3a alt="Afbeelding 2" width="400">
+</div>
+
+
 
 ## Develop 1
 
 ### Doelstellingen
 Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
-Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysike en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing ver aangenaamste is voor de studenten.
+Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysike en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing het aangenaamste is voor de studenten.
 
 ### Materialen & Methoden
 Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een ge-3D printed prototype gebruikt met de algemene vorm en de draai ring. Hiernaast is er een arduino met een patentiometer verbonden met de laptop, deze is in verbinding met protopie conect. Daarnaast wordt er ook een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de potentiometer en smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de interface en de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
+
+<details>
+  <summary>Klik hier om de Arduino-code te bekijken.</summary>
+
+  ```cpp
+  int intensiteits_pin = A0; 
+
+  void setup() {
+      pinMode(intensiteits_pin, INPUT); // INPUT_PULLUP is niet nodig voor een potentiometer
+      Serial.begin(9600);
+  }
+
+  void loop() {
+      int intensiteits_waarde = analogRead(intensiteits_pin); 
+      Serial.print("Intensiteit|| ");
+      Serial.println(intensiteits_waarde);
+      delay(500);
+  }
+```
+</details> 
+
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/04c67af0-b02e-42a4-a703-ae1eee6bb71c alt="..." width="450">
@@ -196,10 +216,47 @@ Om de fysike ergonomie te onderzoeken wordt er eerst een antropometrische studie
   <img src= https://github.com/user-attachments/assets/675654fd-73a0-4631-828b-53dee8f02fcf alt="..." width="300">
 </div>
 
+De volgende structuur is gehanteerd voor het interview en is tevens terug te vinden in het protocol. Het interview begon met een korte samenvatting van het voorafgaande onderzoek. Vervolgens werd het nieuwe concept toegelicht, waarna de eerste reacties hierop werden besproken.
+
+Daarna werd een scenario gepresenteerd waarin de student thuiskomt op kot, het Wizard of Oz-principe werd hier toegepast. Tussen de conceptuitleg en het scenario werden aanvullende vragen gesteld over de fysieke ergonomie. Tot slot kwamen vragen over de sensoriële ergonomie aan bod, waaronder: visueel, auditief en tactiel.
+
+Het interview werd afgesloten met een samenvatting van de belangrijkste bevindingen.
+
 ### Resultaten
+
+De reacties op het nieuwe concept waren positief. Veel deelnemers ervaarden zowel de vorm als de functionaliteit als aangenamer en gebruiksvriendelijker. Dit bevestigt voor ons dat we een belangrijke stap in de juiste richting zetten wat betreft de vormgeving van ons eindproduct.
+
+Ook met betrekking tot de werking en de bedieningswijze werd snel duidelijk dat het concept effectief functioneert.
+
+De meerderheid van de studenten vond de grootte van de diameter goed, al kunnen de afmetingen van het product later nog veranderen wegens het gebruik van standaard elektronica.
+Uit de testen zijn we op het idee gekomen het apparaat magnetisch aan de muur te laten bevestigen. Hierdoor kan de gebruiker bij installatie zelf kiezen hoe hoog hij het apparaat hangt. We raden schouderhoogte aan, wat uit de antropometrische stude ongeveer 140 cm bleek te zijn. Bij de tester was het gemiddlede ongeveer 145 cm.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/2d7d7db5-217b-42be-988b-56b35d63c919 alt="..." width="300">
+</div>
+
+Uit de tests bleek dat de bediening als zeer intuïtief werd ervaren. De draairichting voelde natuurlijk aan en werd zonder moeite correct geïnterpreteerd. Wel werd opgemerkt dat het indrukken van het apparaat verduidelijking behoeft, bijvoorbeeld door een visuele of tactiele aanduiding, om de werking volledig eenduidig te maken.
+
+Uit de vragen over visuele feedback bleek dat meldingen voornamelijk via de aangesloten lamp zouden plaatsvinden. De lamp zou enkele keren knipperen en daarna stoppen. Indien er geen interactie met het apparaat plaatsvindt, zou de lamp na 10 à 15 minuten opnieuw knipperen. Blijft interactie daarna uit, dan verandert de status niet verder. Daarnaast zou het apparaat zelf een visuele indicatie tonen met de naam van de persoon waarmee een match is.
+
+De meningen over auditieve feedback waren sterk verdeeld. Wat duidelijk naar voren kwam, is dat indien geluiden worden geïntegreerd in het ontwerp, zowel het volume als de geluidstoon instelbaar moeten zijn. De meeste gebruikers gaven aan de voorkeur te hebben om het geluid naar wens te kunnen aanpassen of volledig uit te schakelen.
+
+Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit verschillende structuren. De meest gekozen opties waren: De ribbels die al op het apparaat aanwezig waren. Hoekige ribbels voor extra grip. De zwarte kunststof met gestructureerd oppervlak.
 
 
 ### Conclusies & Implicaties
+
+> **Important**
+> 
+> Design Requirements:
+> - **D3.1** Het wordt bevestigd via magneten.
+> - **D3.1** Het wordt aangeraden om het op een hoogte van 1m45 te installeren.
+> - **D3.1** Het is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
+> - **D3.1** De structuur wordt op de buitenste ring behouden.
+> - **D3.1** Het voorzien van visuele en auditieve feedback van het apparaat:
+> - **D3.1** Visueel: de lamp die verbonden is enkele keren zacht laten flikkeren. Wanneer er geen interactie is met het apparaat na 10 minuten de lamp nogmaals laten flikkeren, dit wordt niet herhaald. Op >het apparaat zelf komt te staan met welke persoon in kwestie een match is van de mood.
+> - **D3.1** Auditief: De gebruikers zouden zelf de keuze moeten hebben om welk geluid en het volume van het geluid te kunnen instellen
+> - **D3.1** Aangeven aan de gebruiker om het apparaat in te duwen voor bevestiging.
 
 
 ## Overzicht Design Requirments
@@ -218,7 +275,12 @@ Om de fysike ergonomie te onderzoeken wordt er eerst een antropometrische studie
 | D4.3      | Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten,             | User test Wave 2        | 24/12/2024 |
 |           | Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd                            |                         |            |
 
-
+## Bill of materials
+- LED-verlichting
+- Drukknop
+- Draaiknop
+- Arduino
+- Wifi-module
 
 ## Kritische reflectie
 Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
