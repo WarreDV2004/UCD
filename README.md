@@ -246,17 +246,41 @@ Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit ver
 
 ### Conclusies & Implicaties
 
+Uit deze fase bleek 
+
 > **Important**
 > 
 > Design Requirements:
-> - **D3.1** Het wordt bevestigd via magneten.
-> - **D3.1** Het wordt aangeraden om het op een hoogte van 1m45 te installeren.
-> - **D3.1** Het is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
-> - **D3.1** De structuur wordt op de buitenste ring behouden.
-> - **D3.1** Het voorzien van visuele en auditieve feedback van het apparaat:
-> - **D3.1** Visueel: de lamp die verbonden is enkele keren zacht laten flikkeren. Wanneer er geen interactie is met het apparaat na 10 minuten de lamp nogmaals laten flikkeren, dit wordt niet herhaald. Op >het apparaat zelf komt te staan met welke persoon in kwestie een match is van de mood.
-> - **D3.1** Auditief: De gebruikers zouden zelf de keuze moeten hebben om welk geluid en het volume van het geluid te kunnen instellen
-> - **D3.1** Aangeven aan de gebruiker om het apparaat in te duwen voor bevestiging.
+> - **D5.1** Het wordt aangeraden om het op een hoogte van 1m45 te installeren.
+> - **D5.2** De structuur op de buitenste ring is nummer 8 van het touch & feel board.
+> - **D5.3** Het product is voorzien van een visuele en auditieve feedback.
+> - **D2.2** De lamp die verbonden is flikkert zacht bij een match.
+> - **D1.3** Wanneer er geen interactie is met het apparaat, 10 minuten na de match, volgt er weer een notificatie.
+> - **D1.4** Het schermm op het product geeft de naam waarmee de match is weer.
+> - **D1.5** De gebruiker heeft eigen vrijheid bij het instellen van de soort notificatie betrefende licht en geluid.
+> - **D1.6** Het product moet worden ingeduwd na een match.
+> - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
+> - **D1.8** Het product wordt bevestigd via magneten.
+
+## Develop 2
+
+### Doelstellingen
+
+### Materialen & Methoden
+
+### Resultaten
+
+### Conclusies & Implicaties
+
+## Develop 3
+
+### Doelstellingen
+
+### Materialen & Methoden
+
+### Resultaten
+
+### Conclusies & Implicaties
 
 
 ## Overzicht Design Requirments
@@ -265,15 +289,26 @@ Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit ver
 | D1        | Algemeen                                                                              |                         |            |
 | D1.1      | Het product is compact, maximum 20x20x20 cm.                                          | Concept Validation      | 30/11/2024 |
 | D1.2      | Het product geeft indicatie als er een match is.                                      | Concept validation      | 30/11/2024 |
+| D1.3      | Wanneer er geen interactie is met het apparaat, 10 minuten na de match, volgt er weer een notificatie. | Develop 1 | 14/03/2025 |
+| D1.4      | Het schermm op het product geeft de naam waarmee de match is weer.                    | Develop 1               | 14/03/2025 |
+| D1.5      | De gebruiker heeft eigen vrijheid bij het instellen van de soort notificatie betrefende licht en geluid.| Develop 1 | 14/03/2025 |
+| D1.6      | Het product moet worden ingeduwd na een match.                                        | Develop 1               | 14/03/2025 |
+| D1.7      | Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt. | Develop 1 | 14/03/2025 |
+| D1.8      | Het product wordt bevestigd via magneten.                                             | Develop 1               | 14/03/2025 |
 | D2        | Sfeerlicht                                                                            |                         |            |
 | D2.1      | De kleur van het sfeerlicht is onafhankelijk van de soort mood.                       | Concept Validation      | 30/11/2024 |
+| D2.2      | De lamp die verbonden is flikkert zacht bij een match.                                | Develop 1               | 14/03/2025 |
 | D3        | Knoppen                                                                               |                         |            |
 | D1.3      | Het product heeft 1 knop die de verschillende functies bediend.                       | User test Wave 2        | 24/12/2024 |
 | D4        | Moods                                                                                 |                         |            |
 | D4.1      | Het product communiceert de emoties aan de hand van kleur.                            | Discovery               | 29/10/2024 |
 | D4.2      | Het product communiceert vooral moods.                                                | Discovery               | 29/10/2024 |
-| D4.3      | Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten,             | User test Wave 2        | 24/12/2024 |
-|           | Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd                            |                         |            |
+| D4.3      | Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd| User test Wave 2| 24/12/2024 |
+| D5        | Ergonomie                                                                             |                          |           |
+| D5.1      | Het wordt aangeraden om het op een hoogte van 1m45 te installeren.                    | Develop 1               | 14/03/2025 |
+| D5.2      | De structuur op de buitenste ring is nummer 8 van het touch & feel board.             | Develop 1               | 14/03/2025 |
+| D5.3      | Het product is voorzien van een visuele en auditieve feedback.                        | Develop 1               | 14/03/2025 |
+
 
 ## Bill of materials
 - LED-verlichting
