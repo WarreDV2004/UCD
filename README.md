@@ -241,12 +241,12 @@ Uit de vragen over visuele feedback bleek dat meldingen voornamelijk via de aang
 
 De meningen over auditieve feedback waren sterk verdeeld. Wat duidelijk naar voren kwam, is dat indien geluiden worden geïntegreerd in het ontwerp, zowel het volume als de geluidstoon instelbaar moeten zijn. De meeste gebruikers gaven aan de voorkeur te hebben om het geluid naar wens te kunnen aanpassen of volledig uit te schakelen.
 
-Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit verschillende structuren. De meest gekozen opties waren: De ribbels die al op het apparaat aanwezig waren. Hoekige ribbels voor extra grip. De zwarte kunststof met gestructureerd oppervlak.
+Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit verschillende structuren. De meest gekozen opties waren: de ribbels die al op het apparaat aanwezig waren (8), hoekige ribbels voor extra grip (9), de zwarte kunststof met gestructureerd oppervlak (3).
 
 
 ### Conclusies & Implicaties
 
-Uit deze fase bleek 
+De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het nieuwe concept beter vinden dan ervoor, de gekozen diameter op fysiek ergonomisch vlak goed is, dat de manier van selecteren door de ring in te duwen niet zo intiutief is en dat er gekozen visuele, auditieve en tactiele feedback is.
 
 > **Important**
 > 
@@ -265,8 +265,11 @@ Uit deze fase bleek
 ## Develop 2
 
 ### Doelstellingen
+In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledige gebruikersreis. Dit heeft als doel eerdere assumpties te valideren en potentiële knelpunten in het concept en ontwerp te identificeren en elimineren. Daarnaast wordt ook de tweede belangrijke stakeholder, de kotbazen, betrokken bij het proces. Het concept wordt aan hen voorgelegd om waardevolle feedback te verzamelen. Zij zouden tevens de Vibelinks aanschaffen als extra voorziening voor hun koten en instaan voor de installatie ervan.
+
 
 ### Materialen & Methoden
+
 
 ### Resultaten
 
