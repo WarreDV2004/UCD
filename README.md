@@ -151,7 +151,7 @@ Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst al
 > 
 > Design Requirements:
 > - **D1.1** Het product is compact, maximum 20x20x20 cm.
-> - **D1.2** Het product geeft indicatie als er een match is. 
+> - **D1.2** Het product geeft een indicatie als er een match is. 
 > - **D2.1** De kleur van het sfeerlicht is onafhankelijk van de soort mood.  
 
 #### Wave 2 (N=5)
@@ -269,6 +269,8 @@ In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledig
 
 ### Wave gebruikers (N=4)
 
+Onderzoeksvragen: Wat kan er aangepast worden zodat de vibelink een standaard onderdeel wordt van de gebruikersreis doorheen de dag? en Door welke triggers gebeurt dit en welke beloning heeft dat achteraf?
+
 #### Materialen & Methoden
 
 Tijdens de interviews met de testpersonen werden verschillende situaties voorgelegd, zoals: "Je hebt de hele dag geen les en het is mooi weer" of "Je hebt een volledige dag les tot 18 uur". De deelnemers werd gevraagd om zo gedetailleerd mogelijk de meest gebruikelijke gang van zaken te beschrijven, van het opstaan in de ochtend tot het slapengaan in de avond.
@@ -289,14 +291,79 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
   <img src= https://github.com/user-attachments/assets/bd439536-edb2-49be-91cd-0a912a7a8d7a alt="Storyboard 1" width="500">
 </div>
 
+In de ochtend slapen de studenten tot ongeveer 10 à 11 uur. Daarna ondernemen ze vaak een actieve bezigheid, zoals wandelen of fietsen — soms bewust alleen, om geen afspraken te hoeven maken met anderen. Anderen starten de dag juist rustig, met een douche en een uitgebreid ontbijt.
+Tijdens de middag kiezen studenten doorgaans voor een eenvoudige maaltijd, zoals boterhammen of restjes. Er is meestal weinig behoefte om uitgebreid te koken en sommigen ervaren op dat moment een gevoel van doelloosheid of zijn nog bezig hun verdere dag te plannen.
+In de namiddag wordt vaak tijd doorgebracht met vrienden, bijvoorbeeld door samen op een terras iets te gaan drinken. Wanneer er niemand beschikbaar is, vullen studenten deze tijd meestal met het kijken van films of series.
+’s Avonds wordt er meestal gekookt, soms bewust alleen, soms samen met anderen. Nadien gaan studenten regelmatig uit of ontspannen ze door alleen films of series te kijken.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/ff9ce8a4-f73a-4206-9524-60dc1554c19c alt="Storyboard 2" width="500">
+</div>
+
+In de ochtend staan studenten doorgaans vroeger op, meestal tussen 8 en 9 uur. Ze ontbijten en maken zich klaar om naar de bibliotheek te gaan studeren, of ze blijven op kot en beginnen daar te werken aan hun bureau.
+Tijdens de middag eten ze vaak boterhammen of halen ze een broodje.
+In de namiddag wordt het schoolwerk verdergezet. Op kot worden de pauzes vaker onderbroken door afleiding via de smartphone, terwijl er in de bibliotheek doorgaans minder pauzes genomen worden.
+’s Avonds werken studenten soms nog verder voor school. Als er geen verdere verplichtingen zijn, wordt er gerust door ontspanning op de laptop. Er wordt meestal snel en eenvoudig gekookt, aangezien velen vermoeid zijn na een volledige dag studeren
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=  alt="Storyboard 3" width="500">
+</div>
+
+In de ochtend staan de studenten op, maken zich klaar en vertrekken naar de les.
+Tijdens de middag wordt er vaak op school gegeten, zeker als er na de middag nog lessen gepland zijn.
+In de namiddag, na afloop van de les, spreken studenten meestal direct af met klasgenoten om iets te gaan drinken, vaak zonder eerst nog naar hun kot te gaan. Een alternatief is dat ze eerst hun spullen op kot afzetten en samen boodschappen doen, bijvoorbeeld om drank of snacks te kopen en daarna te ontspannen in een park.
+’s Avonds keren ze terug naar hun kot om te avondeten en eventueel nog verder te werken voor school, of ze blijven samen met de groep om ook ’s avonds nog uit te gaan.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=  alt="Storyboard 4" width="500">
+</div>
+
+In de ochtend staan studenten op, maken zich klaar en vertrekken naar de les.
+Tijdens de middag wordt er gegeten op school of keren studenten direct terug naar hun kot om daar een maaltijd te nuttigen, vaak bestaande uit boterhammen.
+In de namiddag wordt eerst even gerust, waarna er gewerkt wordt voor school als dat nodig is. Wanneer er geen dringende schooltaken zijn, besteden studenten hun tijd aan videobellen met vrienden, het maken van planningen, gamen of het kijken van een serie.
+’s Avonds wordt er gekookt, zowel samen als individueel. Na het eten wordt alles opgeruimd, nemen studenten de tijd om te ontspannen en maken ze zich klaar om te gaan slapen.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src=  alt="Storyboard 5" width="500">
+</div>
+
+In de ochtend staan studenten op, maken zich klaar en vertrekken naar de les. Tijdens de middag eten ze op school of keren ze kort terug naar hun kot om te eten, waarna ze opnieuw lessen volgen. In de namiddag wordt de lesdag voortgezet. Na afloop keren studenten terug naar hun kot.
+’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
 
 ### Wave kotbazen
 
 #### Materialen & Methoden
 
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/3fd30625-c754-45c1-95cb-e1fb3a5609c3 alt="Storyboard 5" width="500">
+</div>
+
 #### Resultaten
 
 ### Conclusies & Implicaties
+
+#### Wave gebruikers
+
+Er zijn duidelijke terugkerende momenten waarop studenten tijd en mentale ruimte hebben om stil te staan bij hun dag en eventueel iets te delen via VibeLink. Deze momenten doen zich vooral voor in de ochtend, wanneer er nog weinig verplichtingen zijn; in de middag, wanneer er nog geen concrete plannen zijn en studenten zoeken naar een invulling van hun dag; en in de avond, na het eten, wanneer er een rustmoment ontstaat en studenten zich meer openstellen voor reflectie en sociaal contact. Op deze momenten kan de interactie uitgelokt worden door bijvoorbeeld een melding.
+
+Bepaalde triggers die studenten ertoe kunnen aanzetten om VibeLink te gebruiken zijn: momenten van twijfel zoals "Wat ga ik nog doen?", de invloed van weersomstandigheden, de behoefte aan sociaal contact gecombineerd met een angst voor afwijzing, en de behoefte aan rust.
+De bijbehorende beloningen zijn onder andere het gevoel van verbondenheid, momenten van rust, een gevoel van controle, en de voldoening om iets betekenisvols te hebben gedaan tijdens de dag.
+Daarnaast kunnen ook actieve triggers worden toegevoegd door op strategische momenten meldingen te versturen en gebruikers te belonen, bijvoorbeeld door badges of streaks toe te kennen voor het consequent doorgeven van hun stemming over meerdere dagen.
+
+De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink modulair te maken kan dus zeker een meerwaarde bezorgen.
+
+> **Important**
+>
+> Design Requirements:
+> - **D** Het product verwelkomt de student als die in de buurt komt.
+> - **D** Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.
+> - **D** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
+
+#### Wave kotbazen
+
+### Vormstudie
+
+
 
 ## Develop 3
 
@@ -314,9 +381,9 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 |-----------|---------------------------------------------------------------------------------------|-------------------------|------------|
 | D1        | Algemeen                                                                              |                         |            |
 | D1.1      | Het product is compact, maximum 20x20x20 cm.                                          | Concept Validation      | 30/11/2024 |
-| D1.2      | Het product geeft indicatie als er een match is.                                      | Concept validation      | 30/11/2024 |
+| D1.2      | Het product geeft een indicatie als er een match is.                                      | Concept validation      | 30/11/2024 |
 | D1.3      | Wanneer er geen interactie is met het apparaat, 10 minuten na de match, volgt er weer een notificatie. | Develop 1 | 14/03/2025 |
-| D1.4      | Het schermm op het product geeft de naam waarmee de match is weer.                    | Develop 1               | 14/03/2025 |
+| D1.4      | Het scherm op het product geeft de naam waarmee de match is weer.                    | Develop 1               | 14/03/2025 |
 | D1.5      | De gebruiker heeft eigen vrijheid bij het instellen van de soort notificatie betrefende licht en geluid.| Develop 1 | 14/03/2025 |
 | D1.6      | Het product moet worden ingeduwd na een match.                                        | Develop 1               | 14/03/2025 |
 | D1.7      | Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt. | Develop 1 | 14/03/2025 |
@@ -338,10 +405,8 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 
 ## Bill of materials
 - Arduino
-- Digital rotary encoder module WPI435 [link](https://www.gotron.be/digitale-encoder.html)
+- [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html)
 - Draaiknop
-- Arduino
-- Wifi-module
 
 ## Kritische reflectie
 Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
@@ -375,5 +440,10 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
     - [Protocol](https://docs.google.com/document/d/1r0aq8WSiM16s504EQ3FyjoloXnLYU9Ix3MpxWJum0ZM/edit?usp=sharing)
     - [Antropometrische studie](https://docs.google.com/document/d/151swEXQBkQlyvM8BVWTO21OE8UqdC8CK/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true)
     - [Report](https://docs.google.com/document/d/1oeadrv8DQ0RTf0Ejnrk790tRzP5yXAQnDEZ7GdAOnDw/edit?usp=sharing)
+  - 2
+    - [Protocol gebruikers](https://docs.google.com/document/d/12B-Cmke9gG3i40l6qS__6FRIqVe_0yOZWLq1CjQbYws/edit?usp=sharing)
+    - [Protocol kotbazen](https://docs.google.com/document/d/1rDKY6d_QxgnEzM0Auz7uWEix_a82Ln2P5h2jirHqcS0/edit?usp=sharing)
+    - [Report gebruikers](https://docs.google.com/document/d/16a-wWIaQbUWTkn92t6JV0DqWhNdM8_EQYeHWOZipe1s/edit?usp=sharing)
+    - [Report kotbazen]()
      
     
