@@ -175,7 +175,7 @@ Hieronder is dan de render te zien van hoe het eruit zou kunnen komen te zien.
 
 
 
-## Develop 1
+## Develop 1 (N=4)
 
 ### Doelstellingen
 Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
@@ -262,16 +262,39 @@ De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het 
 > - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
 > - **D1.8** Het product wordt bevestigd via magneten.
 
-## Develop 2
+## Develop 2 
 
 ### Doelstellingen
 In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledige gebruikersreis. Dit heeft als doel eerdere assumpties te valideren en potentiële knelpunten in het concept en ontwerp te identificeren en elimineren. Daarnaast wordt ook de tweede belangrijke stakeholder, de kotbazen, betrokken bij het proces. Het concept wordt aan hen voorgelegd om waardevolle feedback te verzamelen. Zij zouden tevens de Vibelinks aanschaffen als extra voorziening voor hun koten en instaan voor de installatie ervan.
 
+### Wave gebruikers (N=4)
 
-### Materialen & Methoden
+#### Materialen & Methoden
+
+Tijdens de interviews met de testpersonen werden verschillende situaties voorgelegd, zoals: "Je hebt de hele dag geen les en het is mooi weer" of "Je hebt een volledige dag les tot 18 uur". De deelnemers werd gevraagd om zo gedetailleerd mogelijk de meest gebruikelijke gang van zaken te beschrijven, van het opstaan in de ochtend tot het slapengaan in de avond.
+De antwoorden werden vervolgens geanalyseerd om terugkerende patronen te identificeren. Per situatie werd een onderverdeling gemaakt in ochtend, middag, namiddag en avond. Op basis hiervan zijn zes scènes opgesteld, die met behulp van generatieve AI werden uitgewerkt tot een storyboard.
+
+De vijf situaties zijn als volgt:
+1) Je staat 's morgens op en hebt heel de dag geen les. Je hebt weinig tot geen schoolwerk te doen.
+2) Je staat 's morgens op en hebt heel de dag geen les. Je hebt veel schoolwerk te doen.
+3) Je komt 's middags terug van de les en het is goed weer buiten.
+4) Je komt 's middags thuis van de les en het is slecht weer buiten.
+5) Je komt 's avonds thuis na de les.
+
+#### Resultaten
+
+Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgorde te zien:
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/bd439536-edb2-49be-91cd-0a912a7a8d7a alt="Storyboard 1" width="500">
+</div>
 
 
-### Resultaten
+### Wave kotbazen
+
+#### Materialen & Methoden
+
+#### Resultaten
 
 ### Conclusies & Implicaties
 
@@ -314,8 +337,8 @@ In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledig
 
 
 ## Bill of materials
-- LED-verlichting
-- Drukknop
+- Arduino
+- Digital rotary encoder module WPI435 [link](https://www.gotron.be/digitale-encoder.html)
 - Draaiknop
 - Arduino
 - Wifi-module
