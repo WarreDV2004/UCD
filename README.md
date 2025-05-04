@@ -22,7 +22,7 @@ In de definitie fase werd er eerst gekeken naar welke functie ons product nog me
 
 
 
-<img src= https://github.com/user-attachments/assets/2cf359f5-6d6b-4e94-8cbe-f19ed612f1f2 alt="Afbeelding 2" width="1000">
+<img src= https://github.com/user-attachments/assets/b0a5d316-96e0-4df6-a4a9-f6a90a9e77dc alt="Afbeelding 2" width="1000">
 
 ## Discovery
 Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquêtes en benchmarks.
@@ -210,7 +210,7 @@ Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er w
   <img src=https://github.com/user-attachments/assets/dfff212e-8190-4d64-b1c1-7a22e622e669 alt="..." width="300">
 </div>
 
-Om de fysike ergonomie te onderzoeken wordt er eerst een antropometrische studie gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de teste. Voor de sensoriele ergonomie te testen geven we voorbeelden van visuele en auditieve feedback en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende tesxturen op die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
+Om de fysieke ergonomie te onderzoeken wordt er eerst een antropometrische studie gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de teste. Voor de sensoriele ergonomie te testen geven we voorbeelden van visuele en auditieve feedback en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende tesxturen op die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/675654fd-73a0-4631-828b-53dee8f02fcf alt="..." width="300">
@@ -229,7 +229,7 @@ De reacties op het nieuwe concept waren positief. Veel deelnemers ervaarden zowe
 Ook met betrekking tot de werking en de bedieningswijze werd snel duidelijk dat het concept effectief functioneert.
 
 De meerderheid van de studenten vond de grootte van de diameter goed, al kunnen de afmetingen van het product later nog veranderen wegens het gebruik van standaard elektronica.
-Uit de testen zijn we op het idee gekomen het apparaat magnetisch aan de muur te laten bevestigen. Hierdoor kan de gebruiker bij installatie zelf kiezen hoe hoog hij het apparaat hangt. We raden schouderhoogte aan, wat uit de antropometrische stude ongeveer 140 cm bleek te zijn. Bij de tester was het gemiddlede ongeveer 145 cm.
+Uit de testen zijn we op het idee gekomen het apparaat magnetisch aan de muur te laten bevestigen. Hierdoor kan de gebruiker bij installatie zelf kiezen hoe hoog hij het apparaat hangt. We raden schouderhoogte aan, wat uit de antropometrische stude ongeveer 140 cm bleek te zijn. Bij de tester was het gemiddelde ongeveer 145 cm.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/2d7d7db5-217b-42be-988b-56b35d63c919 alt="..." width="300">
@@ -306,7 +306,7 @@ In de namiddag wordt het schoolwerk verdergezet. Op kot worden de pauzes vaker o
 ’s Avonds werken studenten soms nog verder voor school. Als er geen verdere verplichtingen zijn, wordt er gerust door ontspanning op de laptop. Er wordt meestal snel en eenvoudig gekookt, aangezien velen vermoeid zijn na een volledige dag studeren
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=  alt="Storyboard 3" width="500">
+  <img src= https://github.com/user-attachments/assets/1146e497-89a9-45ef-8c19-ef66a5f66ed2 alt="Storyboard 3" width="500">
 </div>
 
 In de ochtend staan de studenten op, maken zich klaar en vertrekken naar de les.
@@ -315,7 +315,7 @@ In de namiddag, na afloop van de les, spreken studenten meestal direct af met kl
 ’s Avonds keren ze terug naar hun kot om te avondeten en eventueel nog verder te werken voor school, of ze blijven samen met de groep om ook ’s avonds nog uit te gaan.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=  alt="Storyboard 4" width="500">
+  <img src= https://github.com/user-attachments/assets/1be760a2-9ea2-406b-8de4-73e12a861d58 alt="Storyboard 4" width="500">
 </div>
 
 In de ochtend staan studenten op, maken zich klaar en vertrekken naar de les.
@@ -327,8 +327,7 @@ In de namiddag wordt eerst even gerust, waarna er gewerkt wordt voor school als 
   <img src=  alt="Storyboard 5" width="500">
 </div>
 
-In de ochtend staan studenten op, maken zich klaar en vertrekken naar de les. Tijdens de middag eten ze op school of keren ze kort terug naar hun kot om te eten, waarna ze opnieuw lessen volgen. In de namiddag wordt de lesdag voortgezet. Na afloop keren studenten terug naar hun kot.
-’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
+Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
 
 ### Wave kotbazen
 
