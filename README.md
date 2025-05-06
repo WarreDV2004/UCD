@@ -324,7 +324,7 @@ In de namiddag wordt eerst even gerust, waarna er gewerkt wordt voor school als 
 ’s Avonds wordt er gekookt, zowel samen als individueel. Na het eten wordt alles opgeruimd, nemen studenten de tijd om te ontspannen en maken ze zich klaar om te gaan slapen.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=  alt="Storyboard 5" width="500">
+  <img src= https://github.com/user-attachments/assets/3e7ec4b6-b3de-44ed-8b4b-0b41ba7a1732 alt="Storyboard 5" width="500">
 </div>
 
 Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
