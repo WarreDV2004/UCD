@@ -262,14 +262,14 @@ De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het 
 > - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
 > - **D1.8** Het product wordt bevestigd via magneten.
 
-## Develop 2 
+## Develop 2 (N=7)
 
 ### Doelstellingen
 In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledige gebruikersreis. Dit heeft als doel eerdere assumpties te valideren en potentiële knelpunten in het concept en ontwerp te identificeren en elimineren. Daarnaast wordt ook de tweede belangrijke stakeholder, de kotbazen, betrokken bij het proces. Het concept wordt aan hen voorgelegd om waardevolle feedback te verzamelen. Zij zouden tevens de Vibelinks aanschaffen als extra voorziening voor hun koten en instaan voor de installatie ervan.
 
 ### Wave gebruikers (N=4)
 
-Onderzoeksvragen: Wat kan er aangepast worden zodat de vibelink een standaard onderdeel wordt van de gebruikersreis doorheen de dag? en Door welke triggers gebeurt dit en welke beloning heeft dat achteraf?
+Onderzoeksvragen: "Wat kan er aangepast worden zodat de vibelink een standaard onderdeel wordt van de gebruikersreis doorheen de dag?" en "Door welke triggers gebeurt dit en welke beloning heeft dat achteraf?"
 
 #### Materialen & Methoden
 
@@ -329,7 +329,7 @@ In de namiddag wordt eerst even gerust, waarna er gewerkt wordt voor school als 
 
 Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
 
-### Wave kotbazen
+### Wave kotbazen (N=3)
 
 #### Materialen & Methoden
 
@@ -364,18 +364,62 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 
 
 
-## Develop 3
+## Develop 3 (N=5)
 
 ### Doelstellingen
 
+In deze derde en laatste fase van de ontwikkelingscyclus richten we ons op de interactie tussen de gebruiker en de interface van de Vibelink. Het doel is om inzicht te krijgen in de gebruiksvriendelijkheid en effectiviteit van het systeem. Daarbij onderzoeken we hoe de cognitieve belasting voor de gebruiker tot een minimum beperkt kan worden, of de interface eenvoudig te gebruiken is, en of alle noodzakelijke functionaliteiten duidelijk en toegankelijk zijn geïntegreerd.
+Deze aspecten worden geëvalueerd aan de hand van een zo interactief mogelijk eind prototype, waarmee we realistische tests kunnen uitvoeren.
+
+
 ### Materialen & Methoden
+
+De gebruikerstests worden uitgevoerd met een werkend 3D-geprint prototype waarin een rotary encoder is geïntegreerd. Deze encoder is verbonden met een Arduino, die op zijn beurt gekoppeld is aan een laptop waarop de interactieve interface, ontworpen in ProtoPie, draait.
+
+Tijdens de tests wordt de gebruiker in verschillende gesimuleerde situaties geplaatst. Een voorbeeld van zo’n situatie is: "Je komt terug van de les en hebt zin om samen te koken. Geef dit aan via de VibeLink." De deelnemer wordt gevraagd om deze opdracht zelfstandig uit te voeren met behulp van het interactieve prototype.
+
+De onderzoekers proberen zich tijdens de testmomenten zo passief mogelijk op te stellen om de spontane interactie met het prototype te observeren. Er wordt gebruik gemaakt van het think-aloud protocol, waarbij gebruikers hun gedachten en beslissingen tijdens het uitvoeren van de taak hardop verwoorden. Na afloop van de test worden aanvullende vragen gesteld over de gebruiksvriendelijkheid, de duidelijkheid van de interface en eventuele onduidelijkheden. Er wordt ook gevraagd naar gelijkaardige interfaces die de gebruiker reeds kent uit het dagelijks leven.
+
+Er is geëxperimenteerd met verschillende prototypingvarianten, waaronder een eindig scrollmenu en een oneindig scrollmenu. Na de testscenario’s wordt het prototype vergeleken met de interface van de Google Nest, om inzichten te krijgen in de gebruikersvoorkeuren en verwachtingen. Tot slot wordt ook de voorkeur bevraagd over de fysieke interactie met de VibeLink, met name hoe gebruikers de voorkeur geven aan het schakelen tussen de wandmontage en de hub.
+
+Hieronder is een GIF te zien van de interface in actie.
+
+<img src= https://github.com/user-attachments/assets/d0f658db-ecaa-4f27-85af-53ebf48256a8 >
 
 ### Resultaten
 
+De gebruikers gingen snel uitzoeken welke handeling welk gevolg had, draaien of drukken. 
+
+
+
+
+
 ### Conclusies & Implicaties
 
+1. Gebruiksvriendelijkheid: De interface wordt grotendeels als intuïtief ervaren, maar de afwezigheid van feedback (micro-interactions) en het starten in het mood-menu in plaats van een algemeen menu veroorzaken verwarring.
+2. Cognitieve belasting: Lichtintensiteitsbalkjes die vergroten en eindeloos scrollen verlagen de cognitieve belasting. Het ontbreken van visuele feedback (zoals kleurverandering per mood) verhoogt deze juist.
+3. Vindbaarheid functionaliteiten: Niet alle functies zijn even makkelijk vindbaar. Dit vooral door de start in het mood menu. Gebruikers missen een centraal menu en snelle knoppen voor veelgebruikte functies (zoals licht aan/uit).
+4. Verwarring of vertraging: De interface veroorzaakt vertraging door het ontbreken van navigatieopties (terugknop) en visuele indicaties. De start in het mood-menu is niet intuïtief.
+5. Gebruikservaring en behoeften: Gebruikers waarderen de basisfunctionaliteit, maar missen visuele feedback en snelle toegang tot functies. Verbeterpunten zijn onder andere een centraal startscherm, visuele feedback per mood en snelle lichtbediening.
 
-## Overzicht Design Requirments
+Side note: 
+Het starten met het mood menu werd gedaan om de gebruiker deels te verplichten eerst hun mood door te geven zodat het gebruik hiervan maximaal is. Enerzijds wil je dat deze hoofdfunctie zo veel mogelijk gebruikt wordt, maar je wilt de gebruiker ook niet verplichten om dit te doen.
+Het ontbreken van feedback door micro-interactions komt door het prototypen in ProtoPie op een bepaalde logica die hier niet toe diende om deze toe te voegen.
+
+> **Important**
+>
+> Design Requirements:
+> - **D**
+> - **D**
+> - **D**
+
+## Conclusie
+### Slotbevindingen
+
+
+
+### Overzicht Design Requirments
+
 | Nummer    | Design Requirment                                                                     | Source                  | Date       |
 |-----------|---------------------------------------------------------------------------------------|-------------------------|------------|
 | D1        | Algemeen                                                                              |                         |            |
@@ -401,14 +445,20 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 | D5.2      | De structuur op de buitenste ring is nummer 8 van het touch & feel board.             | Develop 1               | 14/03/2025 |
 | D5.3      | Het product is voorzien van een visuele en auditieve feedback.                        | Develop 1               | 14/03/2025 |
 
+## Kritische reflectie
 
-## Bill of materials
+### Semester 1
+
+Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
+
+### Semester 2
+
+
+## Technische beschrijving
 - Arduino
 - [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html)
 - Draaiknop
 
-## Kritische reflectie
-Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
 
 ## Bronnen
 
@@ -444,5 +494,8 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
     - [Protocol kotbazen](https://docs.google.com/document/d/1rDKY6d_QxgnEzM0Auz7uWEix_a82Ln2P5h2jirHqcS0/edit?usp=sharing)
     - [Report gebruikers](https://docs.google.com/document/d/16a-wWIaQbUWTkn92t6JV0DqWhNdM8_EQYeHWOZipe1s/edit?usp=sharing)
     - [Report kotbazen]()
+  - 3
+    - [Protocol]()
+    - [Report]()
      
     
