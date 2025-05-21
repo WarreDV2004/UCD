@@ -3,32 +3,83 @@
 
 *Projectteam: Cezar Herbots; Warre De Vriendt*
 
-Datum: 16/01/2025
+Datum: 23/05/2025
 
 ## Samenvatting
 
 Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
 
+"VibeLink moet studenten op het juiste moment een subtiel duwtje geven om verbinding te maken, zonder frictie of sociale druk."
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= alt="Product_shot" width="400">
+  <img src= alt="Hero_shot" width="400">
+</div>
+
 
 ## Introductie
-Kot gebouwen zijn vaak ingericht zodat iedereen zijn eigen kamer heeft en zijn eigen privacy. Dit kan er dan ook voor zorgen dat je de andere studenten minder ziet en geen contact met hun hebt. Wij proberen met VibeLink ervoor te zorgen dat studenten sneller met elkaar gaan communiceren en deze eerste grote drempel van communicatie te verkleinen. De hoofdfunctie van het product dient voor het communiceren van moods en emoties naar andere studenten. De student heeft hierbij volledige controle wat en wanneer deze wil communiceren met anderen. Naast de functie van communiceren heeft het product ook de functie als sfeerlamp. Dit zorgt ervoor dat het product vaker gebruikt wordt en hiermee de communicatie te stimuleren. Het product is te bedienen aan de hand van 1 draai/druk-knop. Door op de knop te drukken verander je van het instellen van de moods naar het instellen van het sfeerlicht. Door het roteren van de draaiknop stel je deze instelling dan in. De moods worden weergegeven aan de hand van kleuren voor een duidelijke weergave van ver of dichtbij. De lamp geeft aan de hand van een underglow aan in welke mood je jezelf bevind.
+
+In veel studentenkoten is de inrichting gericht op individuele kamers en privacy, wat er vaak toe leidt dat studenten elkaar minder spontaan ontmoeten of met elkaar in contact komen. Dit blijkt ook uit verschillende artiekelen. Met VibeLink willen we de sociale drempel verlagen en studenten stimuleren om vaker met elkaar te communiceren.
+
+De kernfunctie van VibeLink is het delen van gemoedstoestanden en intenties met medebewoners. Studenten kunnen eenvoudig aangeven hoe ze zich voelen of waar ze zin in hebben, met opties zoals:
+
+- Samen koken
+- Samen sporten
+- Iets gaan drinken
+- Niet storen / slaapstand
+- Boos
+- Blij
+- Verdrietig
+
+De gebruiker behoudt hierbij volledige controle over wanneer en welke mood hij of zij deelt met anderen.
+
+Naast deze communicatiefunctie is VibeLink gekoppeld aan een slimme lamp, die de gebruiker kan plaatsen in een armatuur naar keuze. Deze lamp vergroot de zichtbaarheid en het gebruik van het systeem, en zorgt voor een visuele indicatie wanneer er een "match" is — wanneer iemand anders zich in dezelfde mood bevindt.
+
+De bediening gebeurt via één draai-/drukknop, geïnspireerd op het bedieningsprincipe van de Google Nest Thermostaat. Hiermee kan de gebruiker:
+
+- Een mood selecteren
+- De slimme verlichting aanpassen
+- Instellingen wijzigen
+
+Op het scherm van de VibeLink wordt duidelijk weergegeven welke moods andere kotgenoten momenteel hebben gedeeld, waardoor het makkelijker wordt om contact te leggen of initiatief te nemen.
+
+> [!Note]
+> - Volledige protocollen en reports zijn beschikbaar onderaan de pagina bij [bijlagen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bijlagen)
+> - Ruwe data zoals foto's en notities zijn terug te vinden in de protocollen en reports.
+> - Alle geraadpleegde bronnen zijn beschikbaar onderaan de pagina bij [bronnen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bronnen)
+> - Code en CAD modellen zijn terug te vinden in de desbetreffende mappen.
+
 
 ## Methodologie
-Zoals elke onderzoeksproces starten we een exploratie van de opdracht. Hier stelde we onszelf een paar vragen, wat is het probleem? Is het probleem ook daadwerkelijk een probleem? Kunnen we dit probleem onderbouwen met bestaande en nieuwe onderzoeken? Na Rip the brief van de originele opdracht gaven we onszelf de volgende opdracht: Hoe kunnen we slimme producten inzetten om emoties van verschillende studenten op een kot naar elkaar te communiceren.
 
-In de ontdekkingsfase van de opdracht gingen we aan de slag met onderzoek en onderbouwing van het probleem aan de hand van research en enquêtes. Bij de research werd er vooral gezocht naar bevestigen van het probleem van eenzaamheid op grote schaal en of hier ook al onderzoek rond was. We wouden ook kijken of dit probleem zich ook meer in onze omgeving afspeelt en hielden daarom enquêtes die we doorstuurden naar kotstudenten in onze omgeving. Het werd al snel duidelijk dat er daadwerkelijk een probleem was rond eenzaamheid bij studenten. Aan de hand van dit onderzoek wisten we welk probleem we wouden oplossen. Na het hebben van een duidelijk probleem werd er geconvergeerd naar verschillende oplossingen voor dit probleem. Aan de hand van een full day sprint kwamen we op veel verschillende ideeën die een oplossing konden bieden voor het probleem. Door het bekijken van welk probleem daadwerkelijk zou werken, de haalbaarheid en de positieve en negatieve punten van de oplossingen werd er gedivergeerd naar 1 oplossing waarmee we zouden verder werken.
+Het proces startte met een verkennende fase, waarin de probleemstelling kritisch werd onderzocht. Centrale vragen waren: Wat is het probleem? Is het daadwerkelijk een probleem? En in hoeverre kan dit onderbouwd worden met bestaand of nieuw onderzoek? Na een herdefiniëring van de oorspronkelijke opdracht (“Rip the Brief”) werd de volgende design challenge geformuleerd:
+Hoe kunnen slimme producten ingezet worden om emoties tussen kotstudenten op een laagdrempelige manier met elkaar te communiceren?
 
-In de definitie fase werd er eerst gekeken naar welke functie ons product nog meer zou hebben. Door het hebben van een extra functie stimuleert het de gebruiker om het product vaker te gebruiker. In het tweede deel van deze definitie fase werd er gekeken naar hoe het product bedient zal worden. We divergeerde naar verschillende opstellingen en manieren voor bediening van het product om zo op de beste en meest gebruiksvriendelijke methode van bediening te komen.
+Tijdens de ontdekkingsfase werd onderzoek verricht naar het thema eenzaamheid onder studenten. Literatuurstudie en enquêtes onder kotstudenten gaven inzicht in de schaal en relevantie van het probleem, zowel algemeen als binnen de directe doelgroep. De resultaten bevestigden dat sociale isolatie op kot een herkenbaar en actueel probleem vormt. Deze bevindingen dienden als basis voor het definiëren van een gerichte ontwerpuitdaging.
 
+Aan de hand van een full day sprint werden verschillende oplossingsrichtingen gegenereerd. Deze concepten zijn geëvalueerd op haalbaarheid, impact en gebruiksvriendelijkheid. Op basis van deze analyse werd één concept geselecteerd voor verdere uitwerking.
 
+In de definitiefase werd onderzocht welke aanvullende functies het product kon bevatten om de betrokkenheid te verhogen. Een voorbeeld hiervan is de koppeling met een slimme lamp, die zowel de zichtbaarheid als het gebruik stimuleert. Daarnaast werden diverse interactie- en bedieningsmodellen onderzocht om tot de meest intuïtieve gebruikerservaring te komen.
+
+De ontwikkelfase bestond uit drie delen, telkens met een specifieke focus op een vorm van ergonomie:
+
+Develop 1: Fysieke en sensoriële ergonomie, getest via Wizard of Oz-methodes en touch and feel-materialen.
+
+Develop 2: Integratie in het dagelijkse leven van studenten, onderzocht aan de hand van storyboards en contextuele toepassingen. Integratie in de gebouwen, intervieuws met verhuurders.
+
+Develop 3: Cognitieve en deels sensoriële ergonomie, met nadruk op interfaceontwerp en gebruikslogica.
+
+Elke fase droeg bij aan de ontwikkeling van een functioneel en gebruiksvriendelijk prototype dat gericht is op het versterken van sociale verbondenheid binnen studentenomgevingen.
+
+Op het einde volgt de delivery en de eindpresentatie van het proces.
 
 <img src= https://github.com/user-attachments/assets/b0a5d316-96e0-4df6-a4a9-f6a90a9e77dc alt="Afbeelding 2" width="1000">
 
 ## Discovery
-Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen maken we gebruik van enquêtes en benchmarks.
 
 ### Doestellingen
-Een helder geformuleerde "how might we" bekomen.
+
+Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen wordt er gebruik gemaakt van enquêtes en benchmarks. Een helder geformuleerde "how might we" bekomen is hier cruciaal in.
 
 ### Materiaal & methoden
 * Enquêtes via google forms
@@ -46,7 +97,7 @@ Op het vlak van communiceren van emoties zijn er een paar gezelschapsspelletjes 
 Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het probleem om hier dan ook een zo goed mogelijke oplossing te vinden. Uit de Enquête blijkt dat studenten minder geïnteresseerd zijn in het communiceren van echte emoties maar dat ze eerder moods zouden willen communiceren. Uit de enquête blijkt dat er maar een kleine hoeveelheid van de mensen zich daadwerkelijk eenzaam of verdrietig voelt op kot maar dat een grote hoeveelheid van de mensen (ongeveer 75%) hun kotgenoten meer wilt zien en meer met hun in contact willen staan. Het doel van het product moet dus meer gefocust zijn op het communiceren van moods zoals samen iets gaan drinken en minder op emoties zoals verdrietig voelen.
 
 ### Conclusies & implicaties
-Uit de resultaten van de twee onderzoeken kunnen we een paar design requirements opstellen die we moeten meenemen bij het ontwerpen van het product.
+Uit de resultaten van de twee onderzoeken kunnen er een paar design requirements opgesteld worden die moeten meegenomen worden bij het ontwerpen van het product.
 
 > **Important**
 > 
@@ -262,7 +313,7 @@ De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het 
 > - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
 > - **D1.8** Het product wordt bevestigd via magneten.
 
-## Develop 2 (N=7)
+## Develop 2 
 
 ### Doelstellingen
 In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledige gebruikersreis. Dit heeft als doel eerdere assumpties te valideren en potentiële knelpunten in het concept en ontwerp te identificeren en elimineren. Daarnaast wordt ook de tweede belangrijke stakeholder, de kotbazen, betrokken bij het proces. Het concept wordt aan hen voorgelegd om waardevolle feedback te verzamelen. Zij zouden tevens de Vibelinks aanschaffen als extra voorziening voor hun koten en instaan voor de installatie ervan.
@@ -300,7 +351,7 @@ In de namiddag wordt vaak tijd doorgebracht met vrienden, bijvoorbeeld door same
   <img src= https://github.com/user-attachments/assets/ff9ce8a4-f73a-4206-9524-60dc1554c19c alt="Storyboard 2" width="500">
 </div>
 
-In de ochtend staan studenten doorgaans vroeger op, meestal tussen 8 en 9 uur. Ze ontbijten en maken zich klaar om naar de bibliotheek te gaan studeren, of ze blijven op kot en beginnen daar te werken aan hun bureau.
+In de ochtend staan studenten doorgaans vroeger op. Ze ontbijten en maken zich klaar om naar de bibliotheek te gaan studeren, of ze blijven op kot en beginnen daar te werken aan hun bureau.
 Tijdens de middag eten ze vaak boterhammen of halen ze een broodje.
 In de namiddag wordt het schoolwerk verdergezet. Op kot worden de pauzes vaker onderbroken door afleiding via de smartphone, terwijl er in de bibliotheek doorgaans minder pauzes genomen worden.
 ’s Avonds werken studenten soms nog verder voor school. Als er geen verdere verplichtingen zijn, wordt er gerust door ontspanning op de laptop. Er wordt meestal snel en eenvoudig gekookt, aangezien velen vermoeid zijn na een volledige dag studeren
