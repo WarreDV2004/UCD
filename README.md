@@ -350,7 +350,7 @@ De vijf situaties zijn als volgt:
 Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgorde te zien:
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/bd439536-edb2-49be-91cd-0a912a7a8d7a alt="Storyboard 1" width="500">
+  <img src= https://github.com/user-attachments/assets/bd439536-edb2-49be-91cd-0a912a7a8d7a alt="Storyboard 1" width="400">
 </div>
 
 1) Ochtendrust – Studenten slapen meestal uit tot 10 à 11 uur, starten daarna hun dag op eigen tempo.
@@ -361,7 +361,7 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 6) Avondontspanning – Studenten ontspannen alleen of gaan uit met vrienden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/ff9ce8a4-f73a-4206-9524-60dc1554c19c alt="Storyboard 2" width="500">
+  <img src= https://github.com/user-attachments/assets/ff9ce8a4-f73a-4206-9524-60dc1554c19c alt="Storyboard 2" width="400">
 </div>
 
 1) Ochtendroutine – Studenten staan vroeg op, ontbijten en bereiden zich voor op een studiedag.
@@ -372,7 +372,7 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 6) Eenvoudige avondmaaltijd – Er wordt simpel gekookt door vermoeidheid na een lange studiedag.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/1146e497-89a9-45ef-8c19-ef66a5f66ed2 alt="Storyboard 3" width="500">
+  <img src= https://github.com/user-attachments/assets/1146e497-89a9-45ef-8c19-ef66a5f66ed2 alt="Storyboard 3" width="400">
 </div>
 
 1) Ochtend – Studenten staan op, maken zich klaar en gaan naar de les.
@@ -382,7 +382,7 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 5) Avond – Er wordt samen gekookt of uitgegaan, of men werkt verder aan schooltaken.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/1be760a2-9ea2-406b-8de4-73e12a861d58 alt="Storyboard 4" width="500">
+  <img src= https://github.com/user-attachments/assets/1be760a2-9ea2-406b-8de4-73e12a861d58 alt="Storyboard 4" width="400">
 </div>
 
 1) Ochtendroutine – Studenten staan op, maken zich klaar en vertrekken naar de les.
@@ -393,7 +393,7 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 6) Avondafsluiting – Na het opruimen wordt er ontspannen en klaargemaakt voor het slapengaan.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/3e7ec4b6-b3de-44ed-8b4b-0b41ba7a1732 alt="Storyboard 5" width="500">
+  <img src= https://github.com/user-attachments/assets/3e7ec4b6-b3de-44ed-8b4b-0b41ba7a1732 alt="Storyboard 5" width="400">
 </div>
 
 1) Terug naar kot – Na de les keren studenten terug naar hun kamer.
@@ -405,7 +405,7 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
 #### Materialen & Methoden
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/3fd30625-c754-45c1-95cb-e1fb3a5609c3 alt="Storyboard 5" width="500">
+  <img src= https://github.com/user-attachments/assets/3fd30625-c754-45c1-95cb-e1fb3a5609c3 alt="Storyboard 5" width="400">
 </div>
 
 Als onderzoeksmethode bij de kotbazen wordt er gekozen om interviews af te nemen. Tijdens het interview wordt het project kort toegelicht zodat de respondenten een duidelijk beeld krijgen van de doelstellingen en de context. Vervolgens worden gerichte vragen gesteld om de mate van interesse in het project te peilen.
@@ -605,9 +605,9 @@ Eenzaamheid bij studenten: ‘Het voelt alsof ik niets doe in mijn studententijd
     - [Protocol gebruikers](https://docs.google.com/document/d/12B-Cmke9gG3i40l6qS__6FRIqVe_0yOZWLq1CjQbYws/edit?usp=sharing)
     - [Protocol kotbazen](https://docs.google.com/document/d/1rDKY6d_QxgnEzM0Auz7uWEix_a82Ln2P5h2jirHqcS0/edit?usp=sharing)
     - [Report gebruikers](https://docs.google.com/document/d/16a-wWIaQbUWTkn92t6JV0DqWhNdM8_EQYeHWOZipe1s/edit?usp=sharing)
-    - [Report kotbazen]()
+    - [Report kotbazen](https://docs.google.com/document/d/1psnnQiBullsuw2VbTnilmwD4Vtc4XkxmrOvXDm3Nrhg/edit?usp=sharing)
   - 3
-    - [Protocol]()
-    - [Report]()
+    - [Protocol](https://docs.google.com/document/d/1DAV1KiwxBQIpG94lSyFlZdrUHEIPZXJVJt8Hn87BGmM/edit?usp=sharing)
+    - [Report](https://docs.google.com/document/d/1hrFZQWddpDQdi2w4NG7bEw3i99ifph0hlMxw7xFSaP4/edit?usp=sharing)
      
     
