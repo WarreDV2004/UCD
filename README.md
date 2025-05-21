@@ -398,6 +398,8 @@ Daarnaast wordt tijdens het interview in kaart gebracht welke factoren een posit
 
 Uit de interviews kwamen enkele essentiële requirements naar voren. Zo moet het product een duidelijke meerwaarde bieden voor het kot. Het wordt aantrekkelijker voor kotbazen om in het product te investeren wanneer er effectief vraag naar is vanuit studenten, of wanneer het product een extra kwaliteitslabel aan het kot toevoegt – vergelijkbaar met voorzieningen zoals een airco. Dit stelt hen in staat om de huurprijs lichtjes te verhogen, waardoor de investering zich op termijn kan terugverdienen.
 
+Voor de prijsbepaling is het belangrijk om met een eenmalige aankoop te werken. De kotbazen gaven aan dat ze minder snel gaan investeren in een product met abonnement dan in een product met een eenmalige aankoop.
+
 Wat betreft de installatie in de kamer is het belangrijk dat er geen blijvende schade aan het interieur ontstaat. De stroomvoorziening dient bij voorkeur via een standaard stopcontact te verlopen, zodat er geen breekwerken of extra bekabeling nodig zijn. Voor het bevestigen van het muurplaatje wordt aangeraden om gebruik te maken van verfvriendelijke dubbelzijdige tape, zodat de muur intact blijft bij eventuele verwijdering.
 
 ### Conclusies & Implicaties
@@ -420,6 +422,11 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 > - **D** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
 
 #### Wave kotbazen
+
+Uit de interviews met de kotbazen kunnen er op 2 vlakken conclusies genomen worden:
+
+Prijs:
+Voor de prijsbepaling van het product is het belangrijk dat het product een zekere meerwaarde geeft aan het kot. Het product moet verkocht worden als een eenmalige aankoop om abonnementen en prijsstijgingen te vermijden. 
 
 > **Important**
 >
