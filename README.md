@@ -388,7 +388,17 @@ Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te 
   <img src= https://github.com/user-attachments/assets/3fd30625-c754-45c1-95cb-e1fb3a5609c3 alt="Storyboard 5" width="500">
 </div>
 
+Als onderzoeksmethode bij de kotbazen wordt gekozen voor het afnemen van een interview. Tijdens het interview wordt het project kort toegelicht zodat de respondenten een duidelijk beeld krijgen van de doelstellingen en de context. Vervolgens worden gerichte vragen gesteld om de mate van interesse in het project te peilen.
+
+Een belangrijk onderdeel van het interview is het achterhalen of de kotbazen bereid zouden zijn te investeren in het voorgestelde product, en welke drempelwaarden of voorwaarden zij hierbij hanteren. Aangezien de aanschaf en installatie van het product onder de verantwoordelijkheid van de kotbazen zouden vallen, wordt eveneens onderzocht welke vereisten zij stellen aan de installatie.
+
+Daarnaast wordt tijdens het interview in kaart gebracht welke factoren een positieve dan wel negatieve invloed hebben op hun beslissing om het product aan te schaffen. Tot slot wordt er nagegaan welke elementen bepalend zijn voor de prijszetting vanuit het perspectief van de kotbazen.
+
 #### Resultaten
+
+Uit de interviews kwamen enkele essentiële requirements naar voren. Zo moet het product een duidelijke meerwaarde bieden voor het kot. Het wordt aantrekkelijker voor kotbazen om in het product te investeren wanneer er effectief vraag naar is vanuit studenten, of wanneer het product een extra kwaliteitslabel aan het kot toevoegt – vergelijkbaar met voorzieningen zoals een airco. Dit stelt hen in staat om de huurprijs lichtjes te verhogen, waardoor de investering zich op termijn kan terugverdienen.
+
+Wat betreft de installatie in de kamer is het belangrijk dat er geen blijvende schade aan het interieur ontstaat. De stroomvoorziening dient bij voorkeur via een standaard stopcontact te verlopen, zodat er geen breekwerken of extra bekabeling nodig zijn. Voor het bevestigen van het muurplaatje wordt aangeraden om gebruik te maken van verfvriendelijke dubbelzijdige tape, zodat de muur intact blijft bij eventuele verwijdering.
 
 ### Conclusies & Implicaties
 
@@ -410,6 +420,13 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 > - **D** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
 
 #### Wave kotbazen
+
+> **Important**
+>
+> Design Requirements:
+> - **D** 
+> - **D** 
+> - **D** 
 
 ### Vormstudie
 
