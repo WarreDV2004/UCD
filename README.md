@@ -7,7 +7,7 @@ Datum: 23/05/2025
 
 ## Samenvatting
 
-Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempilige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
+Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere studenten niet snel aan te spreken en zo kunnen ze zich na een tijd eenzaam voelen. De oplossingen hiervoor is VibeLink een product dat niet alleen sfeer toevoegt aan je kot, maar vooral op een laagdrempelige manier je gevoel kan weergeven en overbrengen naar de medekotstudenten. Hiermee kunnen andere studenten jouw mood zien en jij hun mood.
 
 "VibeLink moet studenten op het juiste moment een subtiel duwtje geven om verbinding te maken, zonder frictie of sociale druk."
 
@@ -65,7 +65,7 @@ De ontwikkelfase bestond uit drie delen, telkens met een specifieke focus op een
 
 Develop 1: Fysieke en sensoriële ergonomie, getest via Wizard of Oz-methodes en touch and feel-materialen.
 
-Develop 2: Integratie in het dagelijkse leven van studenten, onderzocht aan de hand van storyboards en contextuele toepassingen. Integratie in de gebouwen, intervieuws met verhuurders.
+Develop 2: Integratie in het dagelijkse leven van studenten, onderzocht aan de hand van storyboards en contextuele toepassingen. Integratie in de gebouwen, interviews met verhuurders.
 
 Develop 3: Cognitieve en deels sensoriële ergonomie, met nadruk op interfaceontwerp en gebruikslogica.
 
@@ -73,7 +73,7 @@ Elke fase droeg bij aan de ontwikkeling van een functioneel en gebruiksvriendeli
 
 Op het einde volgt de delivery en de eindpresentatie van het proces.
 
-<img src= https://github.com/user-attachments/assets/b0a5d316-96e0-4df6-a4a9-f6a90a9e77dc alt="Afbeelding 2" width="1000">
+<img src= https://github.com/user-attachments/assets/cfe5c592-a263-48a4-8a50-431c9a5537ad alt="Afbeelding 2" width="1000">
 
 ## Discovery
 
@@ -85,16 +85,23 @@ Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het pro
 * Enquêtes via google forms
 * Benchmarks
 
-### Resultaten
-#### Benchmarks (N=6)
+Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het probleem om hier dan ook een zo goed mogelijke oplossing te vinden. 
+
 Voor de benchmarks is er online gezocht naar 2 verschillende producten. Aan de ene kant wordt er gezocht naar bestaande producten die een oplossing bieden voor ons probleem en langs de andere kant wordt er gezocht naar bestaande manieren die helpen bij het communiceren van emoties bij anderen.
 
-Op het vlak van bestaande oplossingen van ons probleem komen we uit op bestaande producten. Er zijn wel oplossingen tegen eenzaamheid maar deze zijn dan niet gefocust op studenten. De 2 grote lijnen van oplossingen zijn een domotica systeem en apps zoals dating apps en vriendenapps. voor onze oplossing zijn we niet op zoek naar een systeem zoals een domotica systeem of een AI vriend die een persoon vervangt. We willen graag mensen dichter bij elkaar brengen en niet dichter bij hun scherm. Op het vlak van apps zijn er wel een heel aantal aan oplossingen. We zijn helaas ook niet van plan om een app te maken maar we kunnen wel een paar dingen concluderen uit de werking van deze apps. Veel van deze apps zoals dating apps werken aan de hand van swipen en je wordt aan elkaar verbonden als je beiden elkaar leuk vind. Wat het doet is de eerste sociale brug van communicatie overbruggen door mensen met elkaar te verbinden als ze iets gemeenschappelijk hebben. Dit geeft de mensen in kwestie meer zelfvertrouwen om contact te leggen omdat ze de angst van afwijzing minder meemaken.
+### Resultaten
+#### Benchmarks (N=6)
 
-Op het vlak van communiceren van emoties zijn er een paar gezelschapsspelletjes die ontworpen zijn voor het communiceren van emoties. Deze spelletjes zijn wel ontworpen voor kinderen maar geven de basis van het weergeven van emoties. De manier van weergave dat deze spelletjes gebruik is aan de hand van kleur. Ook hebben we een studie teruggevonden die ons zegt dat kleuren bepaalde emoties kunnen losmaken. Uit deze informatie kunnen we halen dat emoties weergeven aan de hand van kleur een goede manier is.
+Bij het analyseren van bestaande oplossingen voor het probleem van eenzaamheid, blijkt dat de meeste producten en systemen zich niet specifiek richten op studenten. Er bestaan oplossingen in twee hoofdvormen: domoticasystemen en digitale applicaties, zoals dating- en vriendenapps.
+
+Domotica-oplossingen of AI-gestuurde gezelschapssystemen zijn vaak gericht op het vervangen van sociaal contact door technologie, zoals virtuele assistenten of sociale robots. Dit strookt echter niet met de gewenste richting van het project. De intentie is niet om technologie als vervanging van menselijk contact te gebruiken, maar om het menselijke contact te faciliteren en versterken — studenten dichter bij elkaar brengen in plaats van dichter bij hun scherm.
+
+Wat betreft digitale applicaties zijn er tal van oplossingen, vooral in de vorm van dating- of sociale netwerkapps. Hoewel een app niet als eindproduct wordt overwogen, bieden deze platformen wel relevante inzichten. Veel van deze apps werken via wederzijdse bevestiging (bijvoorbeeld door swipen), waarbij communicatie pas mogelijk wordt als beide partijen interesse tonen. Dit mechanisme verlaagt de drempel tot contact, omdat het risico op afwijzing wordt geminimaliseerd. Het bevordert zelfvertrouwen en vergemakkelijkt de eerste stap tot sociale interactie — een principe dat waardevol is bij het ontwerpen van een fysieke, sociaal ondersteunende oplossing.
+
+Op het vlak van emotiecommunicatie zijn er enkele gezelschapsspellen ontwikkeld, voornamelijk gericht op kinderen, die emoties op een toegankelijke manier trachten over te brengen. Deze spellen maken veelvuldig gebruik van kleur als communicatiemiddel. Ondersteunend onderzoek toont bovendien aan dat kleuren specifieke emoties kunnen oproepen of versterken. Hieruit kan worden afgeleid dat het gebruik van kleur een effectieve en intuïtieve methode is voor het visueel overbrengen van gemoedstoestanden. Deze inzichten vormen een belangrijke onderbouw voor het verdere ontwerp van de communicatievormen binnen het project.
 
 #### Enquête (N=13)
-Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het probleem om hier dan ook een zo goed mogelijke oplossing te vinden. Uit de Enquête blijkt dat studenten minder geïnteresseerd zijn in het communiceren van echte emoties maar dat ze eerder moods zouden willen communiceren. Uit de enquête blijkt dat er maar een kleine hoeveelheid van de mensen zich daadwerkelijk eenzaam of verdrietig voelt op kot maar dat een grote hoeveelheid van de mensen (ongeveer 75%) hun kotgenoten meer wilt zien en meer met hun in contact willen staan. Het doel van het product moet dus meer gefocust zijn op het communiceren van moods zoals samen iets gaan drinken en minder op emoties zoals verdrietig voelen.
+Uit de Enquête blijkt dat studenten minder geïnteresseerd zijn in het communiceren van echte emoties maar dat ze eerder moods zouden willen communiceren. Ook blijkt er dat er maar een kleine hoeveelheid van de mensen zich daadwerkelijk eenzaam of verdrietig voelt op kot maar dat een grote hoeveelheid van de mensen (ongeveer 75%) hun kotgenoten meer wilt zien en meer met hun in contact willen staan. Het doel van het product moet dus meer gefocust zijn op het communiceren van moods zoals samen iets gaan drinken en minder op emoties zoals verdrietig voelen.
 
 ### Conclusies & implicaties
 Uit de resultaten van de twee onderzoeken kunnen er een paar design requirements opgesteld worden die moeten meegenomen worden bij het ontwerpen van het product.
@@ -110,14 +117,18 @@ In deze fase wordt er verder gedefinieerd hoe de oplossing van het probleem word
 Er is gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave wordt er na gegaan welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben is er gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
 ### Doestellingen
-Na deze fase wordt in kaart gebracht hoe het product eruit zal zien en welke functies het zal hebben. Daarnaast worden een [storyboard](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)  en een render opgesteld om het geheel te verduidelijken.
+Na deze fase wordt in kaart gebracht hoe het product eruit zal zien en welke functies het zal hebben. Daarnaast worden een [storyboard](https://github.com/user-attachments/assets/4796fb20-8204-4eef-a8bf-d4916b57c2e5)  en een render opgesteld om het geheel te verduidelijken.
 
 ### Materiaal & methoden
 Om de doelstellingen te bereiken, werden verschillende prototypes en testmethoden ingezet. Kartonnen prototypes dienden voor snelle conceptverkenning, terwijl 3D-geprinte modellen fysieke eigenschappen evalueerden. Verwisselbare papieren interfaces maakten flexibele interface-tests mogelijk. User interviews brachten inzichten in behoeften en verwachtingen, waarna user testing de gebruiksvriendelijkheid en functionaliteit beoordeelde. Deze aanpak bood een diepgaand inzicht in de gebruikservaring en de haalbaarheid van het ontwerp.
+
+In de eerste wave wordt het initieel idee gevalideerd bij potentiele gebruikers. Basis prototypes uit karton gaven de gebruikers een beter idee over wat het gaat en hoe het er potentieel zou kunnen uitzien. Er werden 4 verschillende prototypes gemaakt die ook telkens een andere extra functie kregen, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
+
+In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie ervan en daarbij ook de lay-out. Dit werd gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo is het mogelijk om met één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben werd gekeken naar de resultaten van wave 1.
   
 ### Resultaten
 #### Wave 1 (N=5)
-In de eerste wave wordt het initieel idee gevalideerd bij potentiele gebruikers. Basis prototypes uit karton gaven de gebruikers een beter idee over wat het gaat en hoe het er potentieel zou kunnen uitzien. Er werden 4 verschillende prototypes gemaakt die ook telkens een andere extra functie kregen, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
+
 Hieronder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. Het idee van sfeerverlichting op kot vonden ze wel positief.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
@@ -149,7 +160,7 @@ Het laatste prototype was veel kleiner dan de andere en had geen extra functie. 
 De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus belangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
 
 #### Wave 2 (N=5)
-In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie ervan en daarbij ook de lay-out. Dit werd gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo is het mogelijk om met één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben werd gekeken naar de resultaten van wave 1.
+
 Hieronder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prototype van de sfeerlamp, maar kleiner.
 
 <img src=https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab alt="Afbeelding 2" width="300">
@@ -226,7 +237,7 @@ Hieronder is dan de render te zien van hoe het eruit zou kunnen komen te zien.
 
 
 
-## Develop 1 (N=4)
+## Develop 1: fysieke en sensoriële ergonomie (N=4)
 
 ### Doelstellingen
 Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
@@ -313,7 +324,7 @@ De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het 
 > - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
 > - **D1.8** Het product wordt bevestigd via magneten.
 
-## Develop 2 
+## Develop 2: Integratie van het product bij de gebruiker
 
 ### Doelstellingen
 In deze fase ligt de focus op het gedetailleerd in kaart brengen van de volledige gebruikersreis. Dit heeft als doel eerdere assumpties te valideren en potentiële knelpunten in het concept en ontwerp te identificeren en elimineren. Daarnaast wordt ook de tweede belangrijke stakeholder, de kotbazen, betrokken bij het proces. Het concept wordt aan hen voorgelegd om waardevolle feedback te verzamelen. Zij zouden tevens de Vibelinks aanschaffen als extra voorziening voor hun koten en instaan voor de installatie ervan.
@@ -342,43 +353,52 @@ Hieronder zijn de gevormde storyboards, van de verschillende situaties, op volgo
   <img src= https://github.com/user-attachments/assets/bd439536-edb2-49be-91cd-0a912a7a8d7a alt="Storyboard 1" width="500">
 </div>
 
-In de ochtend slapen de studenten tot ongeveer 10 à 11 uur. Daarna ondernemen ze vaak een actieve bezigheid, zoals wandelen of fietsen — soms bewust alleen, om geen afspraken te hoeven maken met anderen. Anderen starten de dag juist rustig, met een douche en een uitgebreid ontbijt.
-Tijdens de middag kiezen studenten doorgaans voor een eenvoudige maaltijd, zoals boterhammen of restjes. Er is meestal weinig behoefte om uitgebreid te koken en sommigen ervaren op dat moment een gevoel van doelloosheid of zijn nog bezig hun verdere dag te plannen.
-In de namiddag wordt vaak tijd doorgebracht met vrienden, bijvoorbeeld door samen op een terras iets te gaan drinken. Wanneer er niemand beschikbaar is, vullen studenten deze tijd meestal met het kijken van films of series.
-’s Avonds wordt er meestal gekookt, soms bewust alleen, soms samen met anderen. Nadien gaan studenten regelmatig uit of ontspannen ze door alleen films of series te kijken.
+1) Ochtendrust – Studenten slapen meestal uit tot 10 à 11 uur, starten daarna hun dag op eigen tempo.
+2) Actieve voormiddag – Wandelen of fietsen wordt vaak bewust alleen gedaan, zonder afspraken.
+3) Lunchmoment – Een snelle, eenvoudige maaltijd; soms met een gevoel van doelloosheid of planningstress.
+4) Namiddagactiviteit – Tijd met vrienden op café of terras; anders alleen films of series kijken.
+5) Avondeten – Er wordt gekookt, soms samen, soms bewust alleen voor rust of gemak.
+6) Avondontspanning – Studenten ontspannen alleen of gaan uit met vrienden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/ff9ce8a4-f73a-4206-9524-60dc1554c19c alt="Storyboard 2" width="500">
 </div>
 
-In de ochtend staan studenten doorgaans vroeger op. Ze ontbijten en maken zich klaar om naar de bibliotheek te gaan studeren, of ze blijven op kot en beginnen daar te werken aan hun bureau.
-Tijdens de middag eten ze vaak boterhammen of halen ze een broodje.
-In de namiddag wordt het schoolwerk verdergezet. Op kot worden de pauzes vaker onderbroken door afleiding via de smartphone, terwijl er in de bibliotheek doorgaans minder pauzes genomen worden.
-’s Avonds werken studenten soms nog verder voor school. Als er geen verdere verplichtingen zijn, wordt er gerust door ontspanning op de laptop. Er wordt meestal snel en eenvoudig gekookt, aangezien velen vermoeid zijn na een volledige dag studeren
+1) Ochtendroutine – Studenten staan vroeg op, ontbijten en bereiden zich voor op een studiedag.
+2) Studielocatie – Er wordt gestudeerd in de bibliotheek of op kot aan het bureau.
+3) Middagmaal – Een snelle lunch met boterhammen of een broodje, vaak alleen.
+4) Namiddagstudie – Studeren wordt verdergezet; op kot is er meer afleiding via de smartphone.
+5) Avondstudie of rust – Sommigen werken verder, anderen ontspannen achter de laptop.
+6) Eenvoudige avondmaaltijd – Er wordt simpel gekookt door vermoeidheid na een lange studiedag.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/1146e497-89a9-45ef-8c19-ef66a5f66ed2 alt="Storyboard 3" width="500">
 </div>
 
-In de ochtend staan de studenten op, maken zich klaar en vertrekken naar de les.
-Tijdens de middag wordt er vaak op school gegeten, zeker als er na de middag nog lessen gepland zijn.
-In de namiddag, na afloop van de les, spreken studenten meestal direct af met klasgenoten om iets te gaan drinken, vaak zonder eerst nog naar hun kot te gaan. Een alternatief is dat ze eerst hun spullen op kot afzetten en samen boodschappen doen, bijvoorbeeld om drank of snacks te kopen en daarna te ontspannen in een park.
-’s Avonds keren ze terug naar hun kot om te avondeten en eventueel nog verder te werken voor school, of ze blijven samen met de groep om ook ’s avonds nog uit te gaan.
+1) Ochtend – Studenten staan op, maken zich klaar en gaan naar de les.
+2) Middag – Er wordt op school gegeten, vooral als er in de namiddag nog les is.
+3) Na de les – Studenten spreken af met klasgenoten om iets te drinken of te ontspannen.
+4) Kot & boodschappen – Sommigen gaan eerst naar kot en doen samen boodschappen.
+5) Avond – Er wordt samen gekookt of uitgegaan, of men werkt verder aan schooltaken.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/1be760a2-9ea2-406b-8de4-73e12a861d58 alt="Storyboard 4" width="500">
 </div>
 
-In de ochtend staan studenten op, maken zich klaar en vertrekken naar de les.
-Tijdens de middag wordt er gegeten op school of keren studenten direct terug naar hun kot om daar een maaltijd te nuttigen, vaak bestaande uit boterhammen.
-In de namiddag wordt eerst even gerust, waarna er gewerkt wordt voor school als dat nodig is. Wanneer er geen dringende schooltaken zijn, besteden studenten hun tijd aan videobellen met vrienden, het maken van planningen, gamen of het kijken van een serie.
-’s Avonds wordt er gekookt, zowel samen als individueel. Na het eten wordt alles opgeruimd, nemen studenten de tijd om te ontspannen en maken ze zich klaar om te gaan slapen.
+1) Ochtendroutine – Studenten staan op, maken zich klaar en vertrekken naar de les.
+2) Lunchmoment – Er wordt op school gegeten of snel iets klaargemaakt op kot, zoals boterhammen.
+3) Namiddagrust – Eerst wordt er gerust, gevolgd door schoolwerk indien nodig.
+4) Vrije tijd – Bij geen schoolwerk: videobellen, plannen, gamen of series kijken.
+5) Avondeten – Studenten koken alleen of samen en eten op kot.
+6) Avondafsluiting – Na het opruimen wordt er ontspannen en klaargemaakt voor het slapengaan.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/3e7ec4b6-b3de-44ed-8b4b-0b41ba7a1732 alt="Storyboard 5" width="500">
 </div>
 
-Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te eten klaar, vaak boterhammen, zeker als ze tijdens de middag al een warme maaltijd hebben gehad. Dit omdat ze vaak geen energie meer hebben om uitgebreid te koken. Na het eten wordt er opgeruimd, nemen ze tijd om te rusten en maken ze zich klaar om te gaan slapen.
+1) Terug naar kot – Na de les keren studenten terug naar hun kamer.
+2) Avondeten – Ze bereiden snel iets eenvoudigs, vaak boterhammen, wegens vermoeidheid.
+3) Avondafsluiting – Er wordt opgeruimd, gerust en voorbereid op het slapengaan.
 
 ### Wave kotbazen (N=3)
 
@@ -388,7 +408,7 @@ Na afloop keren studenten terug naar hun kot. ’s Avonds maken ze snel iets te 
   <img src= https://github.com/user-attachments/assets/3fd30625-c754-45c1-95cb-e1fb3a5609c3 alt="Storyboard 5" width="500">
 </div>
 
-Als onderzoeksmethode bij de kotbazen wordt gekozen voor het afnemen van een interview. Tijdens het interview wordt het project kort toegelicht zodat de respondenten een duidelijk beeld krijgen van de doelstellingen en de context. Vervolgens worden gerichte vragen gesteld om de mate van interesse in het project te peilen.
+Als onderzoeksmethode bij de kotbazen wordt er gekozen om interviews af te nemen. Tijdens het interview wordt het project kort toegelicht zodat de respondenten een duidelijk beeld krijgen van de doelstellingen en de context. Vervolgens worden gerichte vragen gesteld om de mate van interesse in het project te peilen.
 
 Een belangrijk onderdeel van het interview is het achterhalen of de kotbazen bereid zouden zijn te investeren in het voorgestelde product, en welke drempelwaarden of voorwaarden zij hierbij hanteren. Aangezien de aanschaf en installatie van het product onder de verantwoordelijkheid van de kotbazen zouden vallen, wordt eveneens onderzocht welke vereisten zij stellen aan de installatie.
 
@@ -431,15 +451,13 @@ Voor de prijsbepaling van het product is het belangrijk dat het product een zeke
 > **Important**
 >
 > Design Requirements:
-> - **D** 
-> - **D** 
-> - **D** 
-
-### Vormstudie
+> - **D** De bevestiging aan de muur is aan de hand van dubbelzijdige tape en magneten.
+> - **D** Er is een aparte hub waar het product op gedokt kan worden.
+> - **D** Het product is een investering voor verhuurders die ze in de huurprijs kunnen doorrekenen.
 
 
 
-## Develop 3 (N=5)
+## Develop 3: cognitieve ergonomie (N=5)
 
 ### Doelstellingen
 
@@ -487,6 +505,18 @@ Het ontbreken van feedback door micro-interactions komt door het prototypen in P
 > - **D**
 > - **D**
 > - **D**
+
+### Vormstudie
+
+Voor het renderen zijn er twee moodboard opgesteld. Eentje met een merk als referentie en eentje met een product als referentie.
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/4c1b5c53-ad4c-44fb-a549-abf61706d3f0 alt="..." width="400">
+  <img src= https://github.com/user-attachments/assets/befb2bc1-187a-4405-bcee-566845532c8d alt="..." width="460">
+</div>
+
+Ook werden er alternatieve vormen ontdekt met Vizcom.
+
 
 ## Conclusie
 ### Slotbevindingen
@@ -537,6 +567,13 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
 
 ## Bronnen
 
+Steadman, J. (2024, May 10). How can Higher Education end student loneliness? Unite Group. https://www.unitegroup.com/articles/higher-education-student-loneliness
+
+1 op 3 studenten voelt zich eenzaam. (n.d.). Vrije Universiteit Brussel. https://www.vub.be/nl/nieuws/1-op-3-studenten-voelt-zich-eenzaam
+
+“Op kot gaan is vooral ook leren balanceren” | Irene - Charlotte - Quinten -  Rani  | WAT WAT. (n.d.). https://www.watwat.be/op-kot/op-kot-gaan-vooral-ook-leren-balanceren-irene-charlotte-quinten-rani
+
+Eenzaamheid bij studenten: ‘Het voelt alsof ik niets doe in mijn studententijd.’ (2025, April 14). Leef. https://www.cm.be/leef/werk-en-ontspanning/studeren/eenzaamheid-bij-studenten
 
 ## Bijlagen
 
