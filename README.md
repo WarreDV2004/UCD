@@ -470,6 +470,75 @@ Deze aspecten worden geëvalueerd aan de hand van een zo interactief mogelijk ei
 
 De gebruikerstests worden uitgevoerd met een werkend 3D-geprint prototype waarin een rotary encoder is geïntegreerd. Deze encoder is verbonden met een Arduino, die op zijn beurt gekoppeld is aan een laptop waarop de interactieve interface, ontworpen in ProtoPie, draait.
 
+<details>
+  <summary>Klik hier om de Arduino-code te bekijken.</summary>
+
+  ```cpp
+ int pinA = 3; // Connected to CLK
+ int pinB = 4; // Connected to DT
+ int drukknop = 5; // Conect to SW
+ int encoderPosCount = 0;
+ int pinALast;
+ int aVal;
+ int druk_teller = 0;
+ int staat1;
+ bool drukknop_last = HIGH;
+ unsigned long lastDebounceTime = 0;
+ unsigned long debounceDelay = 100;  // 100 ms debounce tijd
+ unsigned long lastTurnTime = 0;
+ unsigned long turnDebounceDelay = 100; // 100 ms tussen rotaties
+
+ boolean bCW;
+
+ void setup() {
+ pinMode (pinA,INPUT);
+ pinMode (pinB,INPUT);
+ pinMode (drukknop, INPUT_PULLUP);
+ /* Read Pin A
+ Whatever state it's in will reflect the last position
+ */
+ pinALast = digitalRead(pinA);
+ drukknop_last = digitalRead(drukknop);
+ Serial.begin (9600);
+}
+
+void loop() {
+    
+  bool buttonState = digitalRead(drukknop);
+
+  // Debounce controle
+  if (buttonState == LOW && drukknop_last == HIGH) {
+      if (millis() - lastDebounceTime > debounceDelay) {
+          druk_teller++;  // Verhoog teller bij druk
+          Serial.println("Drukken");
+          // Serial.println(druk_teller);
+          lastDebounceTime = millis(); // Reset debounce timer
+      }
+  }
+    
+  drukknop_last = buttonState; // Update vorige status
+
+
+ aVal = digitalRead(pinA);
+  if ((pinALast == HIGH) && (aVal == LOW)) { // Falling edge detectie
+    if (millis() - lastTurnTime > turnDebounceDelay) {
+     if (digitalRead(pinB) == HIGH) {
+        encoderPosCount++;
+        bCW = true;
+        Serial.println("DraaienR");
+      } else {
+        encoderPosCount--;
+        bCW = false;
+        Serial.println("DraaienL");
+      }
+      lastTurnTime = millis(); // Reset debounce timer voor draai
+    }
+  }
+  pinALast = aVal;
+}
+```
+</details> 
+
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/8bb68ba4-4bf1-46d3-b3ef-c59ee9e4f73c alt="" width="300">
 </div>
@@ -543,7 +612,7 @@ Resultaten render:
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/c7b40903-ad95-49c0-af9b-3c2c98fe03f9 alt="..." width="400">
+  <img src= https://github.com/user-attachments/assets/c7b40903-ad95-49c0-af9b-3c2c98fe03f9 alt="..." width="200">
   <img src=  alt="..." width="400">
 </div>
 
@@ -641,6 +710,7 @@ Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
 | Rond stuk plexieglas met diameter 65mm en dikte 3mm, preferabel zwart| Variabele prijzen |
 | Ijzeren plaatje voor in hub en muurbevestiging | Zoek iets uit de afvalbak en hergebruik dit! |
 
+De Arduino code is terug te vinden in de tekst alsook in de bijlage net als een link naar een Figma pagina waar de lay-outs van de interfaces terug te vinden zijn. De ProtoPie files zijn niet direct beschikbaar door de limitaties van de graties versie. In de arduino code staat er welke pinnen verbonden moeten worden met welke pinnen van de rotary encoder.
 
 
 
@@ -657,7 +727,8 @@ Eenzaamheid bij studenten: ‘Het voelt alsof ik niets doe in mijn studententijd
 ## Bijlagen
 
 - [Miro board](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)
-- [interfaces en arduino code](https://github.com/WarreDV2004/UCD/tree/main/Interfaces)
+- [Arduino code](https://github.com/WarreDV2004/UCD/tree/main/Interfaces)
+- [Figma page](https://www.figma.com/design/PuCQlRo2D172Kp6RI2HuAu/Project-gebruiksgericht-ontwerpen?node-id=107-2)
 - [STL-files](https://github.com/WarreDV2004/UCD/tree/main/NX_files_en_STL_files)
 
 - Discovery
