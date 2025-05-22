@@ -12,7 +12,8 @@ Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere 
 "VibeLink moet studenten op het juiste moment een subtiel duwtje geven om verbinding te maken, zonder frictie of sociale druk."
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= alt="Product_shot" width="400">
+  <img src= https://github.com/user-attachments/assets/51a32df5-bbf0-4c56-8c4c-ced008e75e61 alt="Product_shot" width="400">
+  <img src= https://github.com/user-attachments/assets/133c5a16-4cc5-4de9-829b-91fd224159c9 alt="Product_shot2" width="400">
   <img src= alt="Hero_shot" width="400">
 </div>
 
@@ -534,6 +535,17 @@ Voor het renderen zijn er twee moodboard opgesteld. Eentje met een merk als refe
   <img src= https://github.com/user-attachments/assets/befb2bc1-187a-4405-bcee-566845532c8d alt="..." width="460">
 </div>
 
+Resultaten render:
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/19a2382e-2f42-40eb-95be-e7ee116e35e8 alt="..." width="400">
+  <img src= https://github.com/user-attachments/assets/6cb77691-a9b0-495c-b208-48e39121bfd7 alt="..." width="400">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/c7b40903-ad95-49c0-af9b-3c2c98fe03f9 alt="..." width="400">
+  <img src=  alt="..." width="400">
+</div>
 
 
 ## Conclusie
