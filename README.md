@@ -132,29 +132,29 @@ In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie erva
 Hieronder is het eerste prototype te zien. Hierbij is de extra functie sfeerverlichting. Al snel bleek uit de testen dat gebruikers het te groot vonden. Het idee van sfeerverlichting op kot vonden ze wel positief.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/60d2053d-a08e-44aa-a6fc-a3f30e7c9ea6 alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665 alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/60d2053d-a08e-44aa-a6fc-a3f30e7c9ea6 alt="Afbeelding 1" width="250">
+  <img src=https://github.com/user-attachments/assets/39614445-a653-42d2-8005-1cc7d018c665 alt="Afbeelding 2" width="250">
 </div>
 
 Het tweede prototype was een hanglamp. Mensen vonden deze ook te groot, maar vooral niet zo praktisch aangezien het aan het plafond hangt en wat minder toegankelijk is.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/25bcf018-d17a-497b-8917-dec0782b7485 alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/a1184b32-dc83-4a49-aef6-70b253ab3e8c alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/25bcf018-d17a-497b-8917-dec0782b7485 alt="Afbeelding 1" width="250">
+  <img src=https://github.com/user-attachments/assets/a1184b32-dc83-4a49-aef6-70b253ab3e8c alt="Afbeelding 2" width="250">
 </div>
 
 Het derde prototype was een muziekspeaker. Mensen vonden het ontwerp van het prototype wel zeer goed en het idee van een speaker erbij te hebben leek hun ook wel tof.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/d22a74f8-b0ba-4244-86e9-66050b23874b alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/6845ee63-cf40-4564-971b-a37f6da30820 alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/d22a74f8-b0ba-4244-86e9-66050b23874b alt="Afbeelding 1" width="250">
+  <img src=https://github.com/user-attachments/assets/6845ee63-cf40-4564-971b-a37f6da30820 alt="Afbeelding 2" width="250">
 </div>
 
 Het laatste prototype was veel kleiner dan de andere en had geen extra functie. De dient dus puur voor de moods te zien en zelf over te brengen. De testers hielden wel van de kleinere vormfactor, maar vonden de prototypes met een extra functie toch aantrekkelijker. 
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/08ae06e8-f56f-4288-9c0a-b45635087e31 alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/42f692ca-2e47-4311-8896-4b7c933813ac alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/08ae06e8-f56f-4288-9c0a-b45635087e31 alt="Afbeelding 1" width="250">
+  <img src=https://github.com/user-attachments/assets/42f692ca-2e47-4311-8896-4b7c933813ac alt="Afbeelding 2" width="250">
 </div>
 
 De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus belangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
@@ -163,37 +163,37 @@ De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat he
 
 Hieronder is de eerste basisvorm te zien. Dit is dezelfde vorm als bij het prototype van de sfeerlamp, maar kleiner.
 
-<img src=https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab alt="Afbeelding 2" width="300">
+<img src=https://github.com/user-attachments/assets/3569fbd4-c92d-4edb-9f3a-f84948cd2cab alt="Afbeelding 2" width="250">
 
 Er is ook een tweede basisvorm gemaakt om te variëren op het idee van een sfeerlamp. Deze was eerst in karton, wat niet sterk genoeg was. Daarna werd deze ge-3D print.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 1" width="300">
-  <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/194471d0-4cb2-496b-b3b1-9f1c3eadeb74 alt="Afbeelding 1" width="250">
+  <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="250">
 </div>
 
 Hieronder zijn de verschillende layouts te zien voor beide basisvormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/b9ff7ca3-14e8-4de2-b679-dec55f120df5 alt="Licht onder" width="300">
-  <img src=https://github.com/user-attachments/assets/713796d3-51bb-45ce-b6de-5e2012ee7951 alt="knop zijkant" width="300">
-  <img src=https://github.com/user-attachments/assets/0a6cf450-5bf3-4e83-b92b-fee915dff2f3 alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/b9ff7ca3-14e8-4de2-b679-dec55f120df5 alt="Licht onder" width="250">
+  <img src=https://github.com/user-attachments/assets/713796d3-51bb-45ce-b6de-5e2012ee7951 alt="knop zijkant" width="250">
+  <img src=https://github.com/user-attachments/assets/0a6cf450-5bf3-4e83-b92b-fee915dff2f3 alt="Afbeelding 2" width="250">
 </div>
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src=https://github.com/user-attachments/assets/b6779038-bc2d-42db-8420-0fbb43ab4593 alt="..." width="300">
-  <img src=https://github.com/user-attachments/assets/56c0425f-ed29-4c7c-ab27-6f9868e3ff26 alt="..." width="300">
-  <img src=https://github.com/user-attachments/assets/10bd2eff-0f8f-4736-99df-97cba5350e97 alt="Afbeelding 2" width="300">
+  <img src=https://github.com/user-attachments/assets/b6779038-bc2d-42db-8420-0fbb43ab4593 alt="..." width="250">
+  <img src=https://github.com/user-attachments/assets/56c0425f-ed29-4c7c-ab27-6f9868e3ff26 alt="..." width="250">
+  <img src=https://github.com/user-attachments/assets/10bd2eff-0f8f-4736-99df-97cba5350e97 alt="Afbeelding 2" width="250">
 </div>
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/44907721-701b-4d19-9837-4b4081a76a1a alt="Licht onder" width="450">
-  <img src=https://github.com/user-attachments/assets/02b29fcb-008c-4795-b51f-caab38f76cf3 alt="Afbeelding 2" width="450">
+  <img src= https://github.com/user-attachments/assets/44907721-701b-4d19-9837-4b4081a76a1a alt="Licht onder" width="300">
+  <img src=https://github.com/user-attachments/assets/02b29fcb-008c-4795-b51f-caab38f76cf3 alt="Afbeelding 2" width="300">
 </div>
 
 Met al deze verschillende lay-outs konden de testpersonen zelf spelen met mogelijke combinaties die zei het beste vonden. De voorkeur voor de basis vorm ging meestal naar het kleine prototype. Dit met één knop vanboven die beide functies kan bedienen, het dimmen van het sfeerlicht en je mood aanduiden. 
 
 In de tweede wave is er ook getest welke moods de gebruikers allemaal op product willen hebben. Dit werd gedaan door een blad te geven met veel verschillende emoties op, want het is moeilijk om op gevarieerde emoties te komen uit het hoofd. Recognition over recall. De gebruikers mochten dan 5 emoties aanduiden op het blad en ook nog 2 extra functies/emoties zelf opschrijven zoals sporten of koken.
 
-<img src=https://github.com/user-attachments/assets/c748c216-2158-4aca-a8b8-2061a8862712 alt="Afbeelding 2" width="300">
+<img src=https://github.com/user-attachments/assets/c748c216-2158-4aca-a8b8-2061a8862712 alt="Afbeelding 2" width="250">
 
 Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen:
 - Slaapstand/niet storen/uit
@@ -219,7 +219,7 @@ Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst al
 #### Wave 2 (N=5)
 Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook welke functies er door hoeveel knoppen moeten worden bediend en waar deze terecht komen. Dit op de kleinere vorm. Hieronder is een foto te zien van het gekozen prototype met de meest gekozen lay-out.
 
-<img src= https://github.com/user-attachments/assets/478f9ba2-eed3-49fe-95f2-ff8078069cd1 alt="Afbeelding 2" width="300">
+<img src= https://github.com/user-attachments/assets/478f9ba2-eed3-49fe-95f2-ff8078069cd1 alt="Afbeelding 2" width="250">
 
 > **Important**
 > 
@@ -469,6 +469,10 @@ Deze aspecten worden geëvalueerd aan de hand van een zo interactief mogelijk ei
 
 De gebruikerstests worden uitgevoerd met een werkend 3D-geprint prototype waarin een rotary encoder is geïntegreerd. Deze encoder is verbonden met een Arduino, die op zijn beurt gekoppeld is aan een laptop waarop de interactieve interface, ontworpen in ProtoPie, draait.
 
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/8bb68ba4-4bf1-46d3-b3ef-c59ee9e4f73c alt="" width="300">
+</div>
+
 Tijdens de tests wordt de gebruiker in verschillende gesimuleerde situaties geplaatst. Een voorbeeld van zo’n situatie is: "Je komt terug van de les en hebt zin om samen te koken. Geef dit aan via de VibeLink." De deelnemer wordt gevraagd om deze opdracht zelfstandig uit te voeren met behulp van het interactieve prototype.
 
 De onderzoekers proberen zich tijdens de testmomenten zo passief mogelijk op te stellen om de spontane interactie met het prototype te observeren. Er wordt gebruik gemaakt van het think-aloud protocol, waarbij gebruikers hun gedachten en beslissingen tijdens het uitvoeren van de taak hardop verwoorden. Na afloop van de test worden aanvullende vragen gesteld over de gebruiksvriendelijkheid, de duidelijkheid van de interface en eventuele onduidelijkheden. Er wordt ook gevraagd naar gelijkaardige interfaces die de gebruiker reeds kent uit het dagelijks leven.
@@ -485,6 +489,10 @@ De resultaten van het eindprincipe waren over het algemeen zeer positief. Er wer
 
 Wat betreft de vormgeving waren de reacties overwegend positief, zowel voor de hub als voor het muurplaatje. Het bevestigingssysteem met magneten werd als bijzonder gebruiksvriendelijk ervaren. Wel werd opgemerkt dat het uitlijnmechanisme nog verder verfijnd kan worden, zodat de onderdelen gemakkelijker en nauwkeuriger met elkaar verbonden worden. 
 
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
+  <img src= https://github.com/user-attachments/assets/acac4745-9f08-43ba-984f-95135a8bf121 alt="" width="250">
+  <img src= https://github.com/user-attachments/assets/9ff673dd-a02c-4b63-bb2b-95964d96105a alt="" width="250">
+</div>
 
 ### Conclusies & Implicaties
 
@@ -526,25 +534,18 @@ Voor het renderen zijn er twee moodboard opgesteld. Eentje met een merk als refe
   <img src= https://github.com/user-attachments/assets/befb2bc1-187a-4405-bcee-566845532c8d alt="..." width="460">
 </div>
 
-Ook werden er alternatieve vormen ontdekt met Vizcom.
 
 
 ## Conclusie
 ### Slotbevindingen
-Het VibeLink-project werd opgestart met als doel de communicatie tussen studenten in een gedeeld studentenhuis te verbeteren. Door de ontwikkeling van een gebruiksvriendelijk en technologisch ondersteund systeem, bieden we studenten een laagdrempelige manier om hun emoties, stemmingen en activiteiten met elkaar te delen.
 
-VibeLink bestaat uit drie kernonderdelen: het centrale apparaat, de hub en het muurplaatje. Elk onderdeel vervult een specifieke functie binnen het geheel:
+Het VibeLink-project is opgezet met de ambitie om de sociale cohesie in studentenhuizen op een natuurlijke en laagdrempelige manier te versterken. Door technologie in te zetten als ondersteunend middel, biedt het systeem studenten een eenvoudige manier om emoties, stemmingen en intenties te delen met hun medebewoners.
 
-Het centrale apparaat stelt studenten in staat hun eigen mood in te stellen, de moods van anderen te raadplegen en de smartlamp te bedienen.
+VibeLink bestaat uit drie essentiële componenten: het centrale apparaat voor moodcommunicatie en lichtbediening, een hub die draadloos opladen mogelijk maakt, en een muurplaatje dat snelle interactie bij het betreden of verlaten van de kamer faciliteert. Elk onderdeel draagt bij aan een vlot en intuïtief gebruik van het systeem.
 
-De hub zorgt voor draadloos opladen, zodat het systeem altijd beschikbaar blijft zonder afhankelijk te zijn van losse oplaadmomenten.
+Gedurende het project is VibeLink op regelmatige basis geëvalueerd en verbeterd, in samenwerking met studenten en huisbazen. Deze iteratieve benadering heeft geleid tot een gebruiksvriendelijke en technisch betrouwbare oplossing die inspeelt op de dagelijkse realiteit van kotstudenten.
 
-Het muurplaatje, strategisch geplaatst aan de deur, maakt het instellen van stemmingen snel en eenvoudig bij het in- en uitgaan van de kamer.
-
-Doorheen het voorbije jaar is VibeLink geëvalueerd en verfijnd aan de hand van uitgebreide testen met studenten en kotbazen. Deze iteratieve aanpak heeft geleid tot een systeem dat niet alleen technisch functioneel is, maar ook afgestemd is op de dagelijkse noden van kotstudenten.
-
-VibeLink vormt zo een innovatieve oplossing om het sociaal contact binnen studentenhuizen op een natuurlijke en niet-intrusieve manier te versterken.
-
+VibeLink biedt zo een vernieuwende, subtiele en niet-intrusieve manier om sociaal contact te stimuleren binnen studentenhuizen – met technologie als brug naar meer menselijke interactie.
 
 ### Overzicht Design Requirments
 
@@ -594,20 +595,40 @@ VibeLink vormt zo een innovatieve oplossing om het sociaal contact binnen studen
 
 ### Semester 1
 
+Datum: 06/01/2025
+
 Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
 
 ### Semester 2
 
+Datum: 22/05/2025
+
+Tijdens het eerste semester volgden we voornamelijk de opgegeven structuur, waarbij de uitgevoerde testen vrij algemeen en basis waren. In het tweede semester gingen we bewuster te werk. We bepaalden concreet welke informatie nodig was om ons product verder te ontwikkelen, en voerden gerichtere en relevantere testen uit.
+
+De eerste ontwikkelingsfase verliep bijzonder succesvol. We verzamelden veel nieuwe inzichten en bevestigingen die bijdroegen aan het verbeteren van ons concept. De tweede ontwikkelingsfase, waarin we testten met eindgebruikers, had idealiter eerder in het ontwerpproces plaatsgevonden. Veel van de bevindingen bevestigden wat we al vermoedden of reeds onbewust hadden toegepast. Toch was het waardevol om deze inzichten expliciet te kunnen onderbouwen.
+De testen met kotbazen leverden dan weer verrassend waardevolle input op. Hoewel slechts drie personen deelnamen, bood het ons een ander, vaak vergeten perspectief binnen het gedeelde woonscenario. Er kwamen zo toch belangrijke aandachtspunten naar voren.
+
+In de laatste fase werd de focus gelegd op de interface. Deze werd gebouwd in ProtoPie en bleek voldoende om bruikbare gebruikerstesten uit te voeren. Meerdere opmerkingen tijdens deze tests gingen over aspecten waar we al rekening mee hadden gehouden, maar die moeilijk volledig tot hun recht kwamen in de beperkingen van de gekozen prototypingtool.
+
+Een logische vervolgstap zou zijn om de interface uit te werken in een geavanceerder platform dat meer controle biedt over micro-interacties en animaties. Daarnaast kunnen extra functies worden toegevoegd om via A/B-testing te evalueren welke effectief bijdragen aan gebruiksgemak en functionaliteit in een realistische context. Hoewel het product voornamelijk softwarematig blijft, zou de hardware verder kunnen worden ontwikkeld, bijvoorbeeld door een geïntegreerde printplaat en display toe te voegen, en door de connectiviteit tussen meerdere units te optimaliseren.
+
+Over het geheel genomen kijken we tevreden terug op ons traject. We hebben waardevolle inzichten opgedaan die toekomstige ontwerptrajecten efficiënter en doelgerichter zullen maken.
+
+De teamwerking verliep vlot dankzij directe communicatie, al was het soms lastig om gezamenlijke vrije momenten te vinden, aangezien we elk een ander leertraject volgen.
 
 ## Technische beschrijving
-Onderstaande elementen zijn benodigd om het finale prototype te reconstrueren.
-- Arduino
-- Kabeltjes voor arduino
-- [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html)
-- Magneten
-- 3D prints van files in bijlage
-- Rond stuk plexieglas met diameter 65mm en dikte 3mm
-- Stalen plaatjes voor in hub en muurplaatje
+
+Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
+| Onderdeel                               | Prijs/extra informatie    |
+|-----------------------------------------|-----------|
+| [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOopbB81AbCHTXvFXV8SdPDRw4FNPyKUwBtEExsiwcv5U7o-z8RK4) | 25 euro |
+| Kabeltjes | Paar eurocent|
+| [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html) | 4 euro, overweeg om één van betere kwaliteit te kopen. Deze is wat gevoelig. |
+| [Magneetjes](https://www.manutan.be/nl/mab/nl-vierkant-extra-sterke-magneet-a240398?utm_source=google&utm_medium=cpc&utm_campaign=GG-PM-M-BE-NL-Performance_Max_Top_Products&shopping=true&gad_source=1&gad_campaignid=19253465660&gclid=Cj0KCQjwlrvBBhDnARIsAHEQgOTDBKoVnhv26BBoOO1FYwGR2T6imB86rpJCy2UrmvTEFX10h74ZAm0aAkj-EALw_wcB) | 11 euro|
+| 3D pints | 3 euro aan filament|
+| Rond stuk plexieglas met diameter 65mm en dikte 3mm, preferabel zwart| Variabele prijzen |
+| Ijzeren plaatje voor in hub en muurbevestiging | Zoek iets uit de afvalbak en hergebruik dit! |
+
 
 
 
@@ -624,6 +645,8 @@ Eenzaamheid bij studenten: ‘Het voelt alsof ik niets doe in mijn studententijd
 ## Bijlagen
 
 - [Miro board](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)
+- [interfaces en arduino code](https://github.com/WarreDV2004/UCD/tree/main/Interfaces)
+- [STL-files]()
 
 - Discovery
     - Enquête
