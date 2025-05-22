@@ -433,6 +433,8 @@ Bepaalde triggers die studenten ertoe kunnen aanzetten om VibeLink te gebruiken 
 De bijbehorende beloningen zijn onder andere het gevoel van verbondenheid, momenten van rust, een gevoel van controle, en de voldoening om iets betekenisvols te hebben gedaan tijdens de dag.
 Daarnaast kunnen ook actieve triggers worden toegevoegd door op strategische momenten meldingen te versturen en gebruikers te belonen, bijvoorbeeld door badges of streaks toe te kennen voor het consequent doorgeven van hun stemming over meerdere dagen.
 
+Dit valt ook te linken aan Foggs 3 core motivaters, namelijk: seek pleasure and avoid pain, seek hope and avoid fear en seek social acceptance and avoid rejection.
+
 De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink modulair te maken kan dus zeker een meerwaarde bezorgen.
 
 > **Important**
