@@ -28,7 +28,7 @@ De kernfunctie van VibeLink is het delen van gemoedstoestanden en intenties met 
 - Samen sporten
 - Iets gaan drinken
 - Niet storen / slaapstand
-- Boos
+- Nerveus
 - Blij
 - Verdrietig
 
