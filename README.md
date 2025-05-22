@@ -3,7 +3,7 @@
 
 *Projectteam: Cezar Herbots; Warre De Vriendt*
 
-Datum: 23/05/2025
+Datum: 22/05/2025
 
 ## Samenvatting
 
@@ -11,12 +11,25 @@ Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere 
 
 "VibeLink moet studenten op het juiste moment een subtiel duwtje geven om verbinding te maken, zonder frictie of sociale druk."
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
-  <img src= https://github.com/user-attachments/assets/51a32df5-bbf0-4c56-8c4c-ced008e75e61 alt="Product_shot" width="400">
-  <img src= https://github.com/user-attachments/assets/133c5a16-4cc5-4de9-829b-91fd224159c9 alt="Product_shot2" width="400">
-  <img src= alt="Hero_shot" width="400">
-</div>
+<div align="center">
 
+<table>
+  <tr>
+    <td rowspan="2">
+      <img src= https://github.com/user-attachments/assets/6af243d2-bada-4b1d-9592-159727c25aa7 width="400">
+    </td>
+    <td>
+      <img src= https://github.com/user-attachments/assets/51a32df5-bbf0-4c56-8c4c-ced008e75e61 width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src= https://github.com/user-attachments/assets/133c5a16-4cc5-4de9-829b-91fd224159c9 width="400">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Introductie
 
@@ -610,12 +623,12 @@ Resultaten render:
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/19a2382e-2f42-40eb-95be-e7ee116e35e8 alt="..." width="400">
-  <img src= https://github.com/user-attachments/assets/6cb77691-a9b0-495c-b208-48e39121bfd7 alt="..." width="400">
+  <img src= https://github.com/user-attachments/assets/6cb77691-a9b0-495c-b208-48e39121bfd7 alt="..." width="480">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/c7b40903-ad95-49c0-af9b-3c2c98fe03f9 alt="..." width="200">
-  <img src=  alt="..." width="400">
+  <img src= https://github.com/user-attachments/assets/5165b92b-1d76-4cce-8ec1-2a5a46888677 alt="..." width="440">
 </div>
 
 
@@ -708,7 +721,7 @@ Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
 | Kabeltjes | Paar eurocent|
 | [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html) | 4 euro, overweeg om één van betere kwaliteit te kopen. Deze is wat gevoelig. |
 | [Magneetjes](https://www.manutan.be/nl/mab/nl-vierkant-extra-sterke-magneet-a240398?utm_source=google&utm_medium=cpc&utm_campaign=GG-PM-M-BE-NL-Performance_Max_Top_Products&shopping=true&gad_source=1&gad_campaignid=19253465660&gclid=Cj0KCQjwlrvBBhDnARIsAHEQgOTDBKoVnhv26BBoOO1FYwGR2T6imB86rpJCy2UrmvTEFX10h74ZAm0aAkj-EALw_wcB) | 11 euro|
-| [3D pints](https://github.com/WarreDV2004/UCD/tree/main/NX_files_en_STL_files) | 3 euro aan filament|
+| [3D prints](https://github.com/WarreDV2004/UCD/tree/main/NX_files_en_STL_files) | 3 euro aan filament|
 | Rond stuk plexieglas met diameter 65mm en dikte 3mm, preferabel zwart| Variabele prijzen |
 | Ijzeren plaatje voor in hub en muurbevestiging | Zoek iets uit de afvalbak en hergebruik dit! |
 
