@@ -437,9 +437,9 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 > **Important**
 >
 > Design Requirements:
-> - **D** Het product verwelkomt de student als die in de buurt komt.
-> - **D** Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.
-> - **D** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
+> - **D6.1** Het product verwelkomt de student als die in de buurt komt.
+> - **D6.2** Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.
+> - **D5.4** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
 
 #### Wave kotbazen
 
@@ -451,9 +451,9 @@ Voor de prijsbepaling van het product is het belangrijk dat het product een zeke
 > **Important**
 >
 > Design Requirements:
-> - **D** De bevestiging aan de muur is aan de hand van dubbelzijdige tape en magneten.
-> - **D** Er is een aparte hub waar het product op gedokt kan worden.
-> - **D** Het product is een investering voor verhuurders die ze in de huurprijs kunnen doorrekenen.
+> - **D5.5** De bevestiging aan de muur is aan de hand van dubbelzijdige tape en magneten.
+> - **D5.6** Er is een aparte hub waar het product op gedokt kan worden om op te laden.
+> - **D1.9** Het product is een investering voor verhuurders die ze in de huurprijs kunnen doorrekenen.
 
 
 
@@ -501,18 +501,20 @@ Het ontbreken van feedback door micro-interactions komt door het prototypen in P
 > **Important**
 >
 > Design Requirements:
+>
 > Interfaces:
-> - **D**Er is een “terug knop” te vinden in de verschillende menu’s.
-> - **D**Meteen op basis menu starten.
-> - **D**Feedback in welke mood je zit.
-> - **D**Starten met draaien of drukken.
-> - **D**Alle lichtwaardes moeten weergegeven worden.
-> - **D**Een neutrale mood met wit als behorend kleur.
-> - **D**Kleur van eigen mood als achtergrondkleur van de VibeLink.
-> - **D**Bij een match het scherm duidelijk aanpassen om aandacht te trekken.
-> - **D**Feedback op het scherm bij goede bevestiging op de hub.
-> - Hub en muurplaatje:
-> - **D**Volledig magnetisch aligneren van het apparaat op de hub.
+> - **D6.3**Er is een “terug knop” te vinden in de verschillende menu’s.
+> - **D6.4**Meteen op basis menu starten.
+> - **D6.5**Feedback in welke mood je zit.
+> - **D6.6**Starten met draaien of drukken.
+> - **D6.7**Alle lichtwaardes moeten weergegeven worden.
+> - **D4.4**Een neutrale mood met wit als behorend kleur.
+> - **D6.8**Kleur van eigen mood als achtergrondkleur van de VibeLink.
+> - **D6.9**Bij een match het scherm duidelijk aanpassen om aandacht te trekken.
+> - **D6.10**Feedback op het scherm bij goede bevestiging op de hub.
+> 
+> Hub en muurplaatje:
+> - **D5.7**Volledig magnetisch aligneren van het apparaat op de hub.
 
 
 ### Vormstudie
@@ -545,6 +547,8 @@ Ook werden er alternatieve vormen ontdekt met Vizcom.
 | D1.6      | Het product moet worden ingeduwd na een match.                                        | Develop 1               | 14/03/2025 |
 | D1.7      | Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt. | Develop 1 | 14/03/2025 |
 | D1.8      | Het product wordt bevestigd via magneten.                                             | Develop 1               | 14/03/2025 |
+| D1.9      | Het product is een investering voor verhuurders die ze in de huurprijs kunnen doorrekenen.| Develop 2                | 17/04/2025 |
+
 | D2        | Sfeerlicht                                                                            |                         |            |
 | D2.1      | De kleur van het sfeerlicht is onafhankelijk van de soort mood.                       | Concept Validation      | 30/11/2024 |
 | D2.2      | De lamp die verbonden is flikkert zacht bij een match.                                | Develop 1               | 14/03/2025 |
@@ -554,10 +558,26 @@ Ook werden er alternatieve vormen ontdekt met Vizcom.
 | D4.1      | Het product communiceert de emoties aan de hand van kleur.                            | Discovery               | 29/10/2024 |
 | D4.2      | Het product communiceert vooral moods.                                                | Discovery               | 29/10/2024 |
 | D4.3      | Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd| User test Wave 2| 24/12/2024 |
-| D5        | Ergonomie                                                                             |                          |           |
-| D5.1      | Het wordt aangeraden om het op een hoogte van 1m45 te installeren.                    | Develop 1               | 14/03/2025 |
-| D5.2      | De structuur op de buitenste ring is nummer 8 van het touch & feel board.             | Develop 1               | 14/03/2025 |
-| D5.3      | Het product is voorzien van een visuele en auditieve feedback.                        | Develop 1               | 14/03/2025 |
+| D4.4      |Een neutrale mood met wit als behorend kleur.                                          |Develop 3                 |15/05/2025  |
+| D5        | Ergonomie en vormgeving                                                               |                          |            |
+| D5.1      | Het wordt aangeraden om het op een hoogte van 1m45 te installeren.                    | Develop 1                | 14/03/2025 |
+| D5.2      | De structuur op de buitenste ring is nummer 8 van het touch & feel board.             | Develop 1                | 14/03/2025 |
+| D5.3      | Het product is voorzien van een visuele en auditieve feedback.                        | Develop 1                | 14/03/2025 |
+| D5.4      | Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.                     | Develop 2                | 17/04/2025 |
+| D5.5      | De bevestiging aan de muur is aan de hand van dubbelzijdige tape en magneten.         | Develop 2                | 17/04/2025 |
+| D5.6      | Er is een aparte hub waar het product op gedokt kan worden om op te laden.            | Develop 2                | 17/04/2025 |
+| D5.7      | Volledig magnetisch aligneren van het apparaat op de hub.                             | Develop 3                | 15/05/2025 |
+| D6        | Interface                                                                             |                          |            |
+| D6.1      |Het product verwelkomt de student als die in de buurt komt.                            |Develop 2                 |17/04/2025  |
+| D6.2      |Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.|Develop 2 |17/04/2025  |
+| D6.3      |Er is een “terug knop” te vinden in de verschillende menu’s.                           |Develop 3                 |15/05/2025  |
+| D6.4      |Meteen op basis menu starten.                                                          |Develop 3                 |15/05/2025  |
+| D6.5      |Feedback in welke mood je zit.                                                         |Develop 3                 |15/05/2025  |
+| D6.6      |Starten met draaien of drukken.                                                        |Develop 3                 |15/05/2025  |
+| D6.7      |Alle lichtwaardes moeten weergegeven worden.                                           |Develop 3                 |15/05/2025  |
+| D6.8      |Kleur van eigen mood als achtergrondkleur van de VibeLink.                             |Develop 3                 |15/05/2025  |
+| D6.9      |Bij een match het scherm duidelijk aanpassen om aandacht te trekken.                   |Develop 3                 |15/05/2025  |
+| D6.10     |Feedback op het scherm bij goede bevestiging op de hub.                                |Develop 3                 |15/05/2025  |
 
 ## Kritische reflectie
 
