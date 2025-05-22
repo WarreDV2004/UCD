@@ -481,10 +481,9 @@ Hieronder is een GIF te zien van de interface in actie.
 
 ### Resultaten
 
-De gebruikers gingen snel uitzoeken welke handeling welk gevolg had, draaien of drukken. 
+De resultaten van het eindprincipe waren over het algemeen zeer positief. Er werden wel enkele verbeterpunten vastgesteld met betrekking tot de interface. De gebruikers gingen op een intuïtieve manier op ontdekking en probeerden vlot uit welke handelingen – draaien of drukken – welk effect hadden. Het werd duidelijk dat deze twee interactievormen voldoende waren om door de interface te navigeren. Toch ontstond er bij sommige testpersonen verwarring wanneer bijvoorbeeld een terugknop ontbrak, of wanneer men eerst een stemming moest aanduiden vooraleer verder te kunnen gaan in het systeem. Om de gebruiksvriendelijkheid te verhogen, zullen op deze punten gerichte aanpassingen worden doorgevoerd. Buiten de behoefte aan een terugkeerfunctie werd er geen nood ervaren aan bijkomende functionaliteiten of interfaces. Op langere termijn zouden wel extra mogelijkheden overwogen kunnen worden, zoals de koppeling met muziek of een aanduiding of het toilet bezet is.
 
-
-
+Wat betreft de vormgeving waren de reacties overwegend positief, zowel voor de hub als voor het muurplaatje. Het bevestigingssysteem met magneten werd als bijzonder gebruiksvriendelijk ervaren. Wel werd opgemerkt dat het uitlijnmechanisme nog verder verfijnd kan worden, zodat de onderdelen gemakkelijker en nauwkeuriger met elkaar verbonden worden. 
 
 
 ### Conclusies & Implicaties
@@ -502,9 +501,19 @@ Het ontbreken van feedback door micro-interactions komt door het prototypen in P
 > **Important**
 >
 > Design Requirements:
-> - **D**
-> - **D**
-> - **D**
+> Interfaces:
+> - **D**Er is een “terug knop” te vinden in de verschillende menu’s.
+> - **D**Meteen op basis menu starten.
+> - **D**Feedback in welke mood je zit.
+> - **D**Starten met draaien of drukken.
+> - **D**Alle lichtwaardes moeten weergegeven worden.
+> - **D**Een neutrale mood met wit als behorend kleur.
+> - **D**Kleur van eigen mood als achtergrondkleur van de VibeLink.
+> - **D**Bij een match het scherm duidelijk aanpassen om aandacht te trekken.
+> - **D**Feedback op het scherm bij goede bevestiging op de hub.
+> - Hub en muurplaatje:
+> - **D**Volledig magnetisch aligneren van het apparaat op de hub.
+
 
 ### Vormstudie
 
