@@ -531,7 +531,19 @@ Ook werden er alternatieve vormen ontdekt met Vizcom.
 
 ## Conclusie
 ### Slotbevindingen
+Het VibeLink-project werd opgestart met als doel de communicatie tussen studenten in een gedeeld studentenhuis te verbeteren. Door de ontwikkeling van een gebruiksvriendelijk en technologisch ondersteund systeem, bieden we studenten een laagdrempelige manier om hun emoties, stemmingen en activiteiten met elkaar te delen.
 
+VibeLink bestaat uit drie kernonderdelen: het centrale apparaat, de hub en het muurplaatje. Elk onderdeel vervult een specifieke functie binnen het geheel:
+
+Het centrale apparaat stelt studenten in staat hun eigen mood in te stellen, de moods van anderen te raadplegen en de smartlamp te bedienen.
+
+De hub zorgt voor draadloos opladen, zodat het systeem altijd beschikbaar blijft zonder afhankelijk te zijn van losse oplaadmomenten.
+
+Het muurplaatje, strategisch geplaatst aan de deur, maakt het instellen van stemmingen snel en eenvoudig bij het in- en uitgaan van de kamer.
+
+Doorheen het voorbije jaar is VibeLink geëvalueerd en verfijnd aan de hand van uitgebreide testen met studenten en kotbazen. Deze iteratieve aanpak heeft geleid tot een systeem dat niet alleen technisch functioneel is, maar ook afgestemd is op de dagelijkse noden van kotstudenten.
+
+VibeLink vormt zo een innovatieve oplossing om het sociaal contact binnen studentenhuizen op een natuurlijke en niet-intrusieve manier te versterken.
 
 
 ### Overzicht Design Requirments
@@ -588,9 +600,15 @@ Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het 
 
 
 ## Technische beschrijving
+Onderstaande elementen zijn benodigd om het finale prototype te reconstrueren.
 - Arduino
+- Kabeltjes voor arduino
 - [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html)
-- Draaiknop
+- Magneten
+- 3D prints van files in bijlage
+- Rond stuk plexieglas met diameter 65mm en dikte 3mm
+- Stalen plaatjes voor in hub en muurplaatje
+
 
 
 ## Bronnen
