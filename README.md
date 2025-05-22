@@ -625,7 +625,7 @@ Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
 | Kabeltjes | Paar eurocent|
 | [Digital rotary encoder module WPI435](https://www.gotron.be/digitale-encoder.html) | 4 euro, overweeg om één van betere kwaliteit te kopen. Deze is wat gevoelig. |
 | [Magneetjes](https://www.manutan.be/nl/mab/nl-vierkant-extra-sterke-magneet-a240398?utm_source=google&utm_medium=cpc&utm_campaign=GG-PM-M-BE-NL-Performance_Max_Top_Products&shopping=true&gad_source=1&gad_campaignid=19253465660&gclid=Cj0KCQjwlrvBBhDnARIsAHEQgOTDBKoVnhv26BBoOO1FYwGR2T6imB86rpJCy2UrmvTEFX10h74ZAm0aAkj-EALw_wcB) | 11 euro|
-| 3D pints | 3 euro aan filament|
+| [3D pints](https://github.com/WarreDV2004/UCD/tree/main/NX_files_en_STL_files) | 3 euro aan filament|
 | Rond stuk plexieglas met diameter 65mm en dikte 3mm, preferabel zwart| Variabele prijzen |
 | Ijzeren plaatje voor in hub en muurbevestiging | Zoek iets uit de afvalbak en hergebruik dit! |
 
@@ -646,7 +646,7 @@ Eenzaamheid bij studenten: ‘Het voelt alsof ik niets doe in mijn studententijd
 
 - [Miro board](https://miro.com/welcomeonboard/WGEyZHZsblFZVGNXQVJNVzJKdk5OVTU5aWp1OWc3NWdFaFFhRjVIQWJWaE9md29yNUduek4rNlVRclVRUjNoTWRYelN0aWg1aE0xUUx5dSt2NmRVc3JYaXF3T1JYUUJSYko3eTZZdUVHdzd3bzUvSWlqVDZvTXRvZnVZTmxnRE4hZQ==?share_link_id=471694594689)
 - [interfaces en arduino code](https://github.com/WarreDV2004/UCD/tree/main/Interfaces)
-- [STL-files]()
+- [STL-files](https://github.com/WarreDV2004/UCD/tree/main/NX_files_en_STL_files)
 
 - Discovery
     - Enquête
