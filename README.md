@@ -245,7 +245,7 @@ Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intu
 Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysike en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing het aangenaamste is voor de studenten.
 
 ### Materialen & Methoden
-Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een ge-3D printed prototype gebruikt met de algemene vorm en de draai ring. Hiernaast is er een arduino met een patentiometer verbonden met de laptop, deze is in verbinding met protopie conect. Daarnaast wordt er ook een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de potentiometer en smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de interface en de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
+Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een ge-3D printed prototype gebruikt met de algemene vorm en de draai ring. Hiernaast is er een arduino met een potentiometer verbonden met de laptop, deze is in verbinding met protopie conect. Daarnaast wordt er ook een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de potentiometer en smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de interface en de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
 
 <details>
   <summary>Klik hier om de Arduino-code te bekijken.</summary>
@@ -273,7 +273,7 @@ Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er w
   <img src=https://github.com/user-attachments/assets/dfff212e-8190-4d64-b1c1-7a22e622e669 alt="..." width="300">
 </div>
 
-Om de fysieke ergonomie te onderzoeken wordt er eerst een antropometrische studie gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de teste. Voor de sensoriele ergonomie te testen geven we voorbeelden van visuele en auditieve feedback en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende tesxturen op die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
+Om de fysieke ergonomie te onderzoeken wordt er eerst een [antropometrische studie](https://docs.google.com/document/d/151swEXQBkQlyvM8BVWTO21OE8UqdC8CK/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true) gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de testers. Voor de sensoriele ergonomie te testen worden er voorbeelden van visuele en auditieve feedback voorgelegt en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende texturen op, die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/675654fd-73a0-4631-828b-53dee8f02fcf alt="..." width="300">
