@@ -218,14 +218,14 @@ Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen:
 - Blij
 - Nerveus/geïrriteerd
 
-Bij elke mood wordt er ook een gepast kleur gekozen.
-- Slaapstand/niet storen/uit:  zwart
-- Sporten: groen
-- Iets gaan drinken:  bordeauxrood
-- Koken: oranje
-- Verdrietig: blauw
-- Blij: geel
-- Nerveus/geïrriteerd: magenta
+Bij elke mood wordt er ook een gepast kleur gekozen aan de hand van Plutchik's Wheel of Emotions
+- Slaapstand/niet storen/uit:  zwart, zodat er geen extra licht in de kamer brand.
+- Sporten: groen, wordt gelinkt aan submission, de overgave aan de sport.
+- Iets gaan drinken:  bordeauxrood, wordt gelinkt aan de avondsfeer en een contrast met de andere kleuren.
+- Koken: oranje, wordt gelinkt aan intresse.
+- Verdrietig: blauw, wordt gelinkt aan sadness.
+- Blij: geel, wordt gelinkt aan joy.
+- Nerveus/geïrriteerd: magenta, wordt gelinkt aan remorse.
 
 Plutchik's Wheel of Emotions
 
