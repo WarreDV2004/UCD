@@ -58,9 +58,9 @@ De bediening gebeurt via één draai-/drukknop, geïnspireerd op het bedieningsp
 Op het scherm van de VibeLink wordt duidelijk weergegeven welke moods andere kotgenoten momenteel hebben gedeeld, waardoor het makkelijker wordt om contact te leggen of initiatief te nemen.
 
 > [!Note]
-> - Volledige protocollen en reports zijn beschikbaar onderaan de pagina bij [bijlagen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bijlagen)
+> - Volledige protocollen en reports zijn beschikbaar onderaan de pagina bij [bijlagen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bijlagen).
 > - Ruwe data zoals foto's en notities zijn terug te vinden in de protocollen en reports.
-> - Alle geraadpleegde bronnen zijn beschikbaar onderaan de pagina bij [bronnen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bronnen)
+> - Alle geraadpleegde bronnen zijn beschikbaar onderaan de pagina bij [bronnen](https://github.com/WarreDV2004/UCD/edit/main/README.md#bronnen).
 > - Code en CAD modellen zijn terug te vinden in de desbetreffende mappen.
 
 
@@ -226,7 +226,11 @@ Bij elke mood wordt er ook een gepast kleur gekozen.
 - Verdrietig: blauw
 - Blij: geel
 - Nerveus/geïrriteerd: magenta
- 
+
+Plutchik's Wheel of Emotions
+
+<img src= https://github.com/user-attachments/assets/c339de1b-2a8b-4e02-94ed-55c307dc2926 alt="Wheel of emotions" width="350">
+
 ### Conclusies & implicaties
 #### Wave 1 (N=5)
 Uit de eerste wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. De kleur van het sfeerlicht moet ook niet hetzelfde zijn als de kleur van de mood waar ze zelf in zitten. Ook werd er aangegeven dat het wel gemakkelijk zou zijn als er een indicatie is als er iemand in dezelfde mood zit.
