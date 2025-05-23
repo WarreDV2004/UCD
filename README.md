@@ -217,6 +217,15 @@ Hier is dan uit gebleken dat volgende emoties het vaakst werden gokozen:
 - Verdrietig
 - Blij
 - Nerveus/geïrriteerd
+
+Bij elke mood wordt er ook een gepast kleur gekozen.
+- Slaapstand/niet storen/uit:  zwart
+- Sporten: groen
+- Iets gaan drinken:  bordeauxrood
+- Koken: oranje
+- Verdrietig: blauw
+- Blij: Geel
+- Nerveus/geïrriteerd: magenta
  
 ### Conclusies & implicaties
 #### Wave 1 (N=5)
@@ -463,6 +472,9 @@ Uit de interviews met de kotbazen kunnen er op 2 vlakken conclusies genomen word
 
 Prijs:
 Voor de prijsbepaling van het product is het belangrijk dat het product een zekere meerwaarde geeft aan het kot. Het product moet verkocht worden als een eenmalige aankoop om abonnementen en prijsstijgingen te vermijden. 
+
+Bevestiging:
+Bij het bevestigen van het product is het zeer belangrijk dat er geen schade wordt aangericht aan de kamer. Als stroomvoorziening wordt er best gebruik gemaakt van een stopcontact. De hub zou verbonden zijn met het stopcontact om zo het apparaat op te laden. Voor het ophangen van het muurplaatje wordt er best dubbelzijdige tape gebruikt, er zou gebruik gemaakt worden van dubbelzijdige tape die bedoeld is om op muren te plakken om het meekomen van verf te vermijden. Moest de student het apparaat nog willen verplaatsen kan dit door het muurplaatje op een andere locatie te hangen met een nieuw stuk tape, zo kunnen onnodige gaten in de muur vermeden worden.
 
 > **Important**
 >
