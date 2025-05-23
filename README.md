@@ -1,5 +1,5 @@
 # VibeLink
-*Kotstudenten gemakkelijker laten comunniceren met mede kotstudenten.* 
+*Kotstudenten gemakkelijker laten communiceren met mede kotstudenten.* 
 
 *Projectteam: Cezar Herbots; Warre De Vriendt*
 
@@ -33,7 +33,7 @@ Kotstudenten komen vaak toe op kot zonder iemand te kennen. Velen durven andere 
 
 ## Introductie
 
-In veel studentenkoten is de inrichting gericht op individuele kamers en privacy, wat er vaak toe leidt dat studenten elkaar minder spontaan ontmoeten of met elkaar in contact komen. Dit blijkt ook uit verschillende artiekelen. Met VibeLink willen we de sociale drempel verlagen en studenten stimuleren om vaker met elkaar te communiceren.
+In veel studentenkoten is de inrichting gericht op individuele kamers en privacy, wat er vaak toe leidt dat studenten elkaar minder spontaan ontmoeten of met elkaar in contact komen. Dit blijkt ook uit verschillende artikelen. Met VibeLink willen we de sociale drempel verlagen en studenten stimuleren om vaker met elkaar te communiceren.
 
 De kernfunctie van VibeLink is het delen van gemoedstoestanden en intenties met medebewoners. Studenten kunnen eenvoudig aangeven hoe ze zich voelen of waar ze zin in hebben, met opties zoals:
 
@@ -91,12 +91,12 @@ Op het einde volgt de delivery en de eindpresentatie van het proces.
 
 ## Discovery
 
-### Doestellingen
+### Doelstellingen
 
 Tijdens deze ontdekkingsfase proberen we een helder beeld te krijgen van het probleem en hoe dit op te lossen. Door een goed zicht te hebben op het probleem en de bestaande oplossingen voor dit probleem kan er gekeken worden naar opportuniteiten voor een oplossing. Om het probleem scherp te stellen wordt er gebruik gemaakt van enquêtes en benchmarks. Een helder geformuleerde "how might we" bekomen is hier cruciaal in.
 
 ### Materiaal & methoden
-* Enquêtes via google forms
+* Enquêtes via Google Forms
 * Benchmarks
 
 Het uitvoeren van de enquête is bedoeld om een beter beeld te krijgen op het probleem om hier dan ook een zo goed mogelijke oplossing te vinden. 
@@ -128,17 +128,17 @@ Uit de resultaten van de twee onderzoeken kunnen er een paar design requirements
 
 ## Definition
 In deze fase wordt er verder gedefinieerd hoe de oplossing van het probleem word uitgewerkt. Het is belangrijk om hier nauw met de mogelijke gebruikers samen te werken en geen assumpties te maken.
-Er is gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de 2de wave wordt er na gegaan welke lay-out van knoppen en lichtjes, voor de moods van de medestudenten te weergeven, het beste zijn. Ook hebben is er gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
+Er is gekozen om in 2 waves van prototypes te werken. De eerste wave focust vooral op de concept validation, maar ook op de vorm en de extra functie die er bij komt zoals: sfeerverlichting, muziekspeaker of hanglamp. Bij de tweede wave wordt er onderzocht welke lay-out van knoppen en lichtjes het meest geschikt is om de stemmingen van de medestudenten weer te geven. Ook is er gevraagd welke moods de gebruikers willen kunnen weergeven en hoe dit weergegeven moet worden.
 
-### Doestellingen
+### Doelstellingen
 Na deze fase wordt in kaart gebracht hoe het product eruit zal zien en welke functies het zal hebben. Daarnaast worden een [storyboard](https://github.com/user-attachments/assets/4796fb20-8204-4eef-a8bf-d4916b57c2e5)  en een render opgesteld om het geheel te verduidelijken.
 
 ### Materiaal & methoden
 Om de doelstellingen te bereiken, werden verschillende prototypes en testmethoden ingezet. Kartonnen prototypes dienden voor snelle conceptverkenning, terwijl 3D-geprinte modellen fysieke eigenschappen evalueerden. Verwisselbare papieren interfaces maakten flexibele interface-tests mogelijk. User interviews brachten inzichten in behoeften en verwachtingen, waarna user testing de gebruiksvriendelijkheid en functionaliteit beoordeelde. Deze aanpak bood een diepgaand inzicht in de gebruikservaring en de haalbaarheid van het ontwerp.
 
-In de eerste wave wordt het initieel idee gevalideerd bij potentiele gebruikers. Basis prototypes uit karton gaven de gebruikers een beter idee over wat het gaat en hoe het er potentieel zou kunnen uitzien. Er werden 4 verschillende prototypes gemaakt die ook telkens een andere extra functie kregen, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
+In de eerste wave wordt het initieel idee gevalideerd bij potentiële gebruikers. Basis prototypes uit karton gaven de gebruikers een beter idee over wat het gaat en hoe het er potentieel zou kunnen uitzien. Er werden 4 verschillende prototypes gemaakt die ook telkens een andere extra functie kregen, zo konden we ook aftoetsen welke extra functie geprefereerd wordt.
 
-In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie ervan en daarbij ook de lay-out. Dit werd gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo is het mogelijk om met één basisvorm verschillende lay-outs testen. Voor deze basisvorm hebben werd gekeken naar de resultaten van wave 1.
+In de tweede wave wordt er getoetst naar de hoeveelheid knoppen, de functie ervan en daarbij ook de lay-out. Dit werd gedaan door verschillende lay-outs te ontwerpen in Affinity Designer en deze af te drukken. Zo is het mogelijk om met één basisvorm verschillende lay-outs te testen. Voor deze basisvorm hebben we gekeken naar de resultaten van wave 1.
   
 ### Resultaten
 #### Wave 1 (N=5)
@@ -164,14 +164,14 @@ Het derde prototype was een muziekspeaker. Mensen vonden het ontwerp van het pro
   <img src=https://github.com/user-attachments/assets/6845ee63-cf40-4564-971b-a37f6da30820 alt="Afbeelding 2" width="250">
 </div>
 
-Het laatste prototype was veel kleiner dan de andere en had geen extra functie. De dient dus puur voor de moods te zien en zelf over te brengen. De testers hielden wel van de kleinere vormfactor, maar vonden de prototypes met een extra functie toch aantrekkelijker. 
+Het laatste prototype was veel kleiner dan de andere en had geen extra functie. Deze dient dus puur om de moods te zien en je eigen mood over te brengen. De testers hielden wel van de kleinere vormfactor, maar vonden de prototypes met een extra functie toch aantrekkelijker. 
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/08ae06e8-f56f-4288-9c0a-b45635087e31 alt="Afbeelding 1" width="250">
   <img src=https://github.com/user-attachments/assets/42f692ca-2e47-4311-8896-4b7c933813ac alt="Afbeelding 2" width="250">
 </div>
 
-De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het na dat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus belangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
+De gebruikers zelf vonden het concept zelf ook goed, al merkten ze wel op dat het nadat ze hun medekotstudenten beter kennen, het vervangen zou kunnen worden door de smartphone. Het is dus belangrijk om de focus te leggen op het gebruiksgemak ervan zodat het toch eerder zal blijven gebruikt worden dan de smartphone.
 
 #### Wave 2 (N=5)
 
@@ -186,7 +186,7 @@ Er is ook een tweede basisvorm gemaakt om te variëren op het idee van een sfeer
   <img src=https://github.com/user-attachments/assets/0d7005be-0c0e-444e-9d6d-3cda3995bdc2 alt="Afbeelding 2" width="250">
 </div>
 
-Hieronder zijn de verschillende layouts te zien voor beide basisvormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening mee gehouden.
+Hieronder zijn de verschillende layouts te zien voor beide basisvormen. Er is gevarieerd op: waar het licht te zien is, waar de knoppen staan, de hoeveelheid knoppen en de soort knop. Met zaken zoals de grootte van de ledjes, hoe de kotgenoten worden weergeven of de vorm van de knop, is nog geen rekening gehouden.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/b9ff7ca3-14e8-4de2-b679-dec55f120df5 alt="Licht onder" width="250">
@@ -203,9 +203,9 @@ Hieronder zijn de verschillende layouts te zien voor beide basisvormen. Er is ge
   <img src=https://github.com/user-attachments/assets/02b29fcb-008c-4795-b51f-caab38f76cf3 alt="Afbeelding 2" width="300">
 </div>
 
-Met al deze verschillende lay-outs konden de testpersonen zelf spelen met mogelijke combinaties die zei het beste vonden. De voorkeur voor de basis vorm ging meestal naar het kleine prototype. Dit met één knop vanboven die beide functies kan bedienen, het dimmen van het sfeerlicht en je mood aanduiden. 
+Met al deze verschillende lay-outs konden de testpersonen zelf spelen met mogelijke combinaties die zij het beste vonden. De voorkeur voor de basisvorm ging meestal naar het kleine prototype. Dit met één knop vanboven die beide functies kan bedienen, het dimmen van het sfeerlicht en je mood aanduiden. 
 
-In de tweede wave is er ook getest welke moods de gebruikers allemaal op product willen hebben. Dit werd gedaan door een blad te geven met veel verschillende emoties op, want het is moeilijk om op gevarieerde emoties te komen uit het hoofd. Recognition over recall. De gebruikers mochten dan 5 emoties aanduiden op het blad en ook nog 2 extra functies/emoties zelf opschrijven zoals sporten of koken.
+In de tweede wave is onderzocht welke moods gebruikers graag op het product willen zien. Hiervoor kregen zij een lijst met verschillende emoties, omdat het moeilijk is om spontaan op een gevarieerd aantal emoties te komen. Recognition over recall. De gebruikers mochten dan 5 emoties aanduiden op het blad en ook nog 2 extra functies/emoties zelf opschrijven zoals sporten of koken.
 
 <img src=https://github.com/user-attachments/assets/c748c216-2158-4aca-a8b8-2061a8862712 alt="Afbeelding 2" width="250">
 
@@ -224,12 +224,12 @@ Bij elke mood wordt er ook een gepast kleur gekozen.
 - Iets gaan drinken:  bordeauxrood
 - Koken: oranje
 - Verdrietig: blauw
-- Blij: Geel
+- Blij: geel
 - Nerveus/geïrriteerd: magenta
  
 ### Conclusies & implicaties
 #### Wave 1 (N=5)
-Uit de eerte wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. De kleur van het sfeerlicht moet ook niet hetzelfde zijn als de kleur van de mood waar ze zelf in zitten. Ook werd er aangegeven dat het wel gemakkelijk zou zijn als er een indicatie is als er iemand in dezelfde mood zit.
+Uit de eerste wave bleek dat het product compact moest zijn en subtiel, liefst als een sfeerlicht. Ook moet het simpel blijven met niet te veel knoppen. De kleur van het sfeerlicht moet ook niet hetzelfde zijn als de kleur van de mood waar ze zelf in zitten. Ook werd er aangegeven dat het wel gemakkelijk zou zijn als er een indicatie is als er iemand in dezelfde mood zit.
 >"Het zou wel handig zijn als er wordt aangegeven als iemand in dezelfde mood zit, want je zit waarschijnlijk niet de hele tijd ernaar te kijken." Linde, 19, Student
 
 > **Important**
@@ -251,7 +251,7 @@ Uit de tweede wave is gebleken welke moods er op het product moeten komen. Ook w
 > - **D4.2** Volgende moods staan op het product: Slaapstand/niet storen/uit, Sporten, Iets drinken, Koken, Verdrietig, Blij, Nerveus/geïrriteerd?
 
 
-Hieronder is dan de render te zien van hoe het eruit zou kunnen komen te zien.
+Hieronder is dan de render te zien van hoe het eruit zou kunnen zien.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src=https://github.com/user-attachments/assets/2d917a26-50c1-4fd9-8192-e47bd026a421 alt="Afbeelding 1" width="400">
@@ -264,7 +264,7 @@ Hieronder is dan de render te zien van hoe het eruit zou kunnen komen te zien.
 
 ### Doelstellingen
 Om het product gebruiksvriendelijker te maken, is inspiratie gehaald uit de intuïtieve bediening van de Google Nest-thermostaat. Het concept omvat een tweedelige opzet: een hoofdmodule waarmee gebruikers hun mood kunnen instellen, de moods van kotgenoten kunnen bekijken en het sfeerlicht kunnen bedienen. En een slimme lamp, vergelijkbaar met de Philips Hue, die gekoppeld is aan de hoofdmodule. Hierdoor kan de gebruiker de verlichting aanpassen aan de gewenste sfeer en optimaal laten aansluiten bij het interieur.
-Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysike en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing het aangenaamste is voor de studenten.
+Eenderzijds wordt er een concept validation gedaan voor het nieuwe concept, meer er wordt ook getest naar de fysieke en sensoriele ergonomie. Met als doel te weten te komen welke eindoplossing het aangenaamste is voor de studenten.
 
 ### Materialen & Methoden
 Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er wordt een ge-3D printed prototype gebruikt met de algemene vorm en de draai ring. Hiernaast is er een arduino met een potentiometer verbonden met de laptop, deze is in verbinding met protopie conect. Daarnaast wordt er ook een slimme lamp verbonden met de smartphone van een onderzoeker. Wanneer een tester een handeling uitvoert op de module, wordt dezelfde actie door de onderzoeker op de potentiometer en smartphone uitgevoerd. Hierdoor ontstaat de indruk dat de tester de interface en de lamp rechtstreeks via het prototype bedient, waardoor realistische gebruikerservaringen kunnen worden geobserveerd.
@@ -295,7 +295,7 @@ Om de functionaliteit te testen, wordt het Wizard of Oz-principe toegepast. Er w
   <img src=https://github.com/user-attachments/assets/dfff212e-8190-4d64-b1c1-7a22e622e669 alt="..." width="300">
 </div>
 
-Om de fysieke ergonomie te onderzoeken wordt er eerst een [antropometrische studie](https://docs.google.com/document/d/151swEXQBkQlyvM8BVWTO21OE8UqdC8CK/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true) gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de testers. Voor de sensoriele ergonomie te testen worden er voorbeelden van visuele en auditieve feedback voorgelegt en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende texturen op, die de buiten ring zou aannemen. Hier wordt er een ranking in gemaakt.
+Om de fysieke ergonomie te onderzoeken wordt er eerst een [antropometrische studie](https://docs.google.com/document/d/151swEXQBkQlyvM8BVWTO21OE8UqdC8CK/edit?usp=sharing&ouid=115981626375536269391&rtpof=true&sd=true) gedaan, waar bij de testen deze waarden worden voorgelegd en feedback wordt gevraagd een de testers. Voor de sensoriele ergonomie te testen worden er voorbeelden van visuele en auditieve feedback voorgelegt en wordt er gevraagd naar feedback en eigen input. Voor het tactiele gedeelte is er een touch and feel bord gemaakt met verschillende texturen op, die de buitenring zou aannemen. Hier wordt er een ranking in gemaakt.
 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center; margin: 20px 0; width: 100%;">
   <img src= https://github.com/user-attachments/assets/675654fd-73a0-4631-828b-53dee8f02fcf alt="..." width="300">
@@ -331,7 +331,7 @@ Voor de tactiele test konden deelnemers een persoonlijke top drie kiezen uit ver
 
 ### Conclusies & Implicaties
 
-De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het nieuwe concept beter vinden dan ervoor, de gekozen diameter op fysiek ergonomisch vlak goed is, dat de manier van selecteren door de ring in te duwen niet zo intiutief is en dat er gekozen visuele, auditieve en tactiele feedback is.
+De belangrijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het nieuwe concept beter vinden dan ervoor, de gekozen diameter op fysiek ergonomisch vlak goed is, dat de manier van selecteren door de ring in te duwen niet zo intiutief is en dat er gekozen visuele, auditieve en tactiele feedback is.
 
 > **Important**
 > 
@@ -341,8 +341,8 @@ De belangerijkste zaken dat uit deze fase zijn gekomen zijn: dat de testers het 
 > - **D5.3** Het product is voorzien van een visuele en auditieve feedback.
 > - **D2.2** De lamp die verbonden is flikkert zacht bij een match.
 > - **D1.3** Wanneer er geen interactie is met het apparaat, 10 minuten na de match, volgt er weer een notificatie.
-> - **D1.4** Het schermm op het product geeft de naam waarmee de match is weer.
-> - **D1.5** De gebruiker heeft eigen vrijheid bij het instellen van de soort notificatie betrefende licht en geluid.
+> - **D1.4** Het scherm op het product geeft de naam waarmee de match is weer.
+> - **D1.5** De gebruiker heeft eigen vrijheid bij het instellen van de soort notificatie betreffende licht en geluid.
 > - **D1.6** Het product moet worden ingeduwd na een match.
 > - **D1.7** Het product is voorzien van een hub waar het apparaat kan in staan, om te bedienen als het niet aan een muur hangt.
 > - **D1.8** Het product wordt bevestigd via magneten.
@@ -463,7 +463,7 @@ De student zit ook vaak aan zijn bureau of in bed, de mogelijkheid om VibeLink m
 >
 > Design Requirements:
 > - **D6.1** Het product verwelkomt de student als die in de buurt komt.
-> - **D6.2** Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.
+> - **D6.2** Het product geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.
 > - **D5.4** Er is een hub om de VibeLink op een zelfgekozen plaats te zetten.
 
 #### Wave kotbazen
@@ -689,7 +689,7 @@ VibeLink biedt zo een vernieuwende, subtiele en niet-intrusieve manier om sociaa
 | D5.7      | Volledig magnetisch aligneren van het apparaat op de hub.                             | Develop 3                | 15/05/2025 |
 | D6        | Interface                                                                             |                          |            |
 | D6.1      | Het product verwelkomt de student als die in de buurt komt.                           |Develop 2                 |17/04/2025  |
-| D6.2      | Het prouct geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.|Develop 2 |17/04/2025  |
+| D6.2      | Het product geeft op verschillende momenten van de dag een gepaste boodschap om een interactie uit te lokken.|Develop 2 |17/04/2025  |
 | D6.3      | Er is een “terug knop” te vinden in de verschillende menu’s.                          |Develop 3                 |15/05/2025  |
 | D6.4      | Na het verwelkomen start de interfece op het basis menu.                              |Develop 3                 |15/05/2025  |
 | D6.5      | Het product geeft feedback over de mood, als je deze selecteert.                      |Develop 3                 |15/05/2025  |
@@ -705,7 +705,7 @@ VibeLink biedt zo een vernieuwende, subtiele en niet-intrusieve manier om sociaa
 
 Datum: 06/01/2025
 
-Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden na dat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
+Over het algemeen zijn we tevreden over hoe ver we nu staan in het project. Het probleem waar we rond werken is ook daadwerkelijk een probleem dat rond ons bevind en wat ook in onze levens speelt. Onze oplossing heeft volgens ons hier wel een goeie invloed op. Het grootste probleem dat we ondervinden is dat we moeten zoeken dat de smartphone niet meteen ons product kan vervangen. We moeten ons product interessant genoeg houden zodat het kan blijven gebruikt worden nadat de studenten elkaar beter hebben leren kennen. Onze prototypes zijn momenteel van redelijke kwaliteit maar we zouden ze nog iets interactiever moeten kunnen maken zodat de testpersonen een nog reëler gevoel krijgen tijdens de testen. Een werkpunt is ook om meer testpersonen te interviewen zodat we meer en duidelijkere informatie bekomen.
 
 ### Semester 2
 
@@ -737,7 +737,7 @@ Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
 | Rond stuk plexieglas met diameter 65mm en dikte 3mm, preferabel zwart| Variabele prijzen |
 | Ijzeren plaatje voor in hub en muurbevestiging | Zoek iets uit de afvalbak en hergebruik dit! |
 
-De Arduino code is terug te vinden in de tekst alsook in de bijlage net als een link naar een Figma pagina waar de lay-outs van de interfaces terug te vinden zijn. De ProtoPie files zijn niet direct beschikbaar door de limitaties van de graties versie. In de arduino code staat er welke pinnen verbonden moeten worden met welke pinnen van de rotary encoder.
+De Arduino code is terug te vinden in de tekst alsook in de bijlage net als een link naar een Figma pagina waar de lay-outs van de interfaces terug te vinden zijn. De ProtoPie files zijn niet direct beschikbaar door de limitaties van de gratis versie. In de arduino code staat er welke pinnen verbonden moeten worden met welke pinnen van de rotary encoder.
 
 De assembly-bestanden kunnen worden gebruikt als instructies om de prototypes in elkaar te zetten, al zal je waarschijnlijk deze instructies niet nodig hebben.
 
