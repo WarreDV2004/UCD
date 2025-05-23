@@ -739,7 +739,7 @@ Onderstaande elementen zijn nodigd om het finale prototype te reconstrueren.
 
 De Arduino code is terug te vinden in de tekst alsook in de bijlage net als een link naar een Figma pagina waar de lay-outs van de interfaces terug te vinden zijn. De ProtoPie files zijn niet direct beschikbaar door de limitaties van de graties versie. In de arduino code staat er welke pinnen verbonden moeten worden met welke pinnen van de rotary encoder.
 
-
+De assembly-bestanden kunnen worden gebruikt als instructies om de prototypes in elkaar te zetten, al zal je waarschijnlijk deze instructies niet nodig hebben.
 
 ## Bronnen
 
