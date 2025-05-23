@@ -489,8 +489,8 @@ Bij het bevestigen van het product is het zeer belangrijk dat er geen schade wor
 
 ### Doelstellingen
 
-In deze derde en laatste fase van de ontwikkelingscyclus richten we ons op de interactie tussen de gebruiker en de interface van de Vibelink. Het doel is om inzicht te krijgen in de gebruiksvriendelijkheid en effectiviteit van het systeem. Daarbij onderzoeken we hoe de cognitieve belasting voor de gebruiker tot een minimum beperkt kan worden, of de interface eenvoudig te gebruiken is, en of alle noodzakelijke functionaliteiten duidelijk en toegankelijk zijn geïntegreerd.
-Deze aspecten worden geëvalueerd aan de hand van een zo interactief mogelijk eind prototype, waarmee we realistische tests kunnen uitvoeren.
+In deze derde en laatste fase van de ontwikkelingscyclus ligt de focus op de interactie tussen de gebruiker en de interface van de Vibelink. Het doel is om inzicht te krijgen in de gebruiksvriendelijkheid en effectiviteit van het systeem. Daarbij wordt er onderzocht hoe de cognitieve belasting voor de gebruiker tot een minimum beperkt kan worden, of de interface eenvoudig te gebruiken is, en of alle noodzakelijke functionaliteiten duidelijk en toegankelijk zijn geïntegreerd.
+Deze aspecten worden geëvalueerd aan de hand van een zo interactief mogelijk eind prototype, waarmee er realistische tests kunnen worden uitgevoerd.
 
 
 ### Materialen & Methoden
