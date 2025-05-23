@@ -229,7 +229,7 @@ Bij elke mood wordt er ook een gepast kleur gekozen.
 
 Plutchik's Wheel of Emotions
 
-<img src= https://github.com/user-attachments/assets/c339de1b-2a8b-4e02-94ed-55c307dc2926 alt="Wheel of emotions" width="350">
+<img src= https://github.com/user-attachments/assets/ffa84559-9e91-42f9-9c7a-2f298328d128 alt="Wheel of emotions" width="350">
 
 ### Conclusies & implicaties
 #### Wave 1 (N=5)
